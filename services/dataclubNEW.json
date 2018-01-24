@@ -1,0 +1,87 @@
+[
+  {
+    "userId": 1,
+    "categoria": "icon-cat-gastronomy.png",
+    "oferta": "Promoción 2x1 en todas las pastas de la casa más un acompañante por persona",
+    "nombrealiado": "Avila Burger",
+    
+    "precioantes": "49.000",
+    "precioahora": "42.000",
+    "premium": "0",
+    "datos": {
+        "ciudad": "Los Palos Grandes, Caracas",
+        "direccion": "2da Av entre 4ta y 5ta transversal, CC Las Cupulas, Los Palos Grandes, Caracas",
+        "telefono": "0212-2851960",
+        "pagina": "www.chiru.com.ve"
+    },
+    "fotos":
+        [
+            "http://localhost/clubeluniversal/img/item-gastronomy-1.png",
+            "http://localhost/clubeluniversal/img/item-gastronomy-2.png",
+            "http://localhost/clubeluniversal/img/item-gastronomy-3.png",
+            "http://localhost/clubeluniversal/img/item-gastronomy-4.png"
+    ],
+    "detalles":
+        [
+            "Paga Bs.46.900 y consume Bs. 10.000 más 2 tintos de verano (de lunes a domingos) en Chirú.",
+            "Con la compra del cupón podrás disfrutar de 2 tintos de verano de lunes a domingos"
+    ],
+    "condiciones":
+        [
+            "Válido desde el 25 de julio hasta el 25 de agosto de 2016.",
+            "Compra tu cupón y comunícate con el establecimiento para hacer tu reserva.",
+            "Horario: Lunes, Martes, Miercoles de 12:00pm a 130:00pm / Jueves y viernes de 12:00pm a 11:30pm / Sábados de 1:00pm a 11:30pm y Domingos de 1:00pm a 10:00pm.",
+            "Presenta el cupón al llegar.",
+            "No es válido para 1 persona.",
+            "No es válido para personas menores de 12 años.",
+            "El menú esta sujetoa cambios.",
+            "El 10% no está incluido en el cupón.",
+            "El monto de la propina lo decide el usuario del cupón."
+
+    ]
+    
+},
+{
+    "userId": 2,
+    "categoria": "icon-cat-gastronomy.png",
+    "oferta": "Promoción 2x1 en todas las pastas de la casa más un acompañante por persona",
+    "nombrealiado": "Avila Burger",
+    
+    "precioantes": "49.000",
+    "precioahora": "42.000",
+    "premium": "0",
+    "datos": {
+        "ciudad": "Los Palos Grandes, Caracas",
+        "direccion": "2da Av entre 4ta y 5ta transversal, CC Las Cupulas, Los Palos Grandes, Caracas",
+        "telefono": "0212-2851960",
+        "pagina": "www.chiru.com.ve"
+    },
+    "fotos":
+        [
+            "http://localhost/clubeluniversal/img/item-gastronomy-1.png",
+            "http://localhost/clubeluniversal/img/item-gastronomy-2.png",
+            "http://localhost/clubeluniversal/img/item-gastronomy-3.png",
+            "http://localhost/clubeluniversal/img/item-gastronomy-4.png"
+    ],
+    "detalles":
+        [
+            "Paga Bs.46.900 y consume Bs. 10.000 más 2 tintos de verano (de lunes a domingos) en Chirú.",
+            "Con la compra del cupón podrás disfrutar de 2 tintos de verano de lunes a domingos"
+    ],
+    "condiciones":
+        [
+            "Válido desde el 25 de julio hasta el 25 de agosto de 2016.",
+            "Compra tu cupón y comunícate con el establecimiento para hacer tu reserva.",
+            "Horario: Lunes, Martes, Miercoles de 12:00pm a 130:00pm / Jueves y viernes de 12:00pm a 11:30pm / Sábados de 1:00pm a 11:30pm y Domingos de 1:00pm a 10:00pm.",
+            "Presenta el cupón al llegar.",
+            "No es válido para 1 persona.",
+            "No es válido para personas menores de 12 años.",
+            "El menú esta sujetoa cambios.",
+            "El 10% no está incluido en el cupón.",
+            "El monto de la propina lo decide el usuario del cupón."
+
+    ]
+    
+}
+
+]

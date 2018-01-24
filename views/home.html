@@ -1,0 +1,176 @@
+
+	<div class="container" ng-controller="allOffersController">
+		<ol class="breadcrumb">
+			<li><a href="#">Inicio</a></li>
+			<li><a href="#">{{migaja}}</a></li>
+			<!--li class="active">Oferta</li-->
+		</ol>
+		<div id="home-carousel" class="carousel slide" data-ride="carousel">
+			<ol class="carousel-indicators">
+				<li data-target="#home-carousel" data-slide-to="0" class="active"></li>
+				<li data-target="#home-carousel" data-slide-to="1"></li>
+				<li data-target="#home-carousel" data-slide-to="2"></li>
+				<li data-target="#home-carousel" data-slide-to="3"></li>
+			</ol>
+			<div class="carousel-inner" role="listbox" >
+				<div class="item active">
+					<img class="background" src="img/carousel-background-1.png" alt="">
+					<div class="carousel-caption">
+						<h1>
+							Taller de cocina con Ennio Carota
+						</h1>
+						<p>
+							Ennio Carota te enseñará recetas fáciles y divertidas en un maravilloso taller para padres e hijos que no puedes perderte, ¡Inscríbete ya!
+						</p>
+						<a href="#" class="btn btn-white btn-outline">
+							Ver oferta
+						</a>
+					</div>
+				</div>
+				<div class="item">
+					<img class="background" src="img/carousel-background-1.png" alt="">
+					<div class="carousel-caption">
+						<h1>
+							Taller de cocina con Ennio Carota
+						</h1>
+						<p>
+							Ennio Carota te enseñará recetas fáciles y divertidas en un maravilloso taller para padres e hijos que no puedes perderte, ¡Inscríbete ya!
+						</p>
+						<a href="#" class="btn btn-white btn-outline">
+							Ver oferta
+						</a>
+					</div>
+				</div>
+				<div class="item">
+					<img class="background" src="img/carousel-background-1.png" alt="">
+					<div class="carousel-caption">
+						<h1>
+							Taller de cocina con Ennio Carota
+						</h1>
+						<p>
+							Ennio Carota te enseñará recetas fáciles y divertidas en un maravilloso taller para padres e hijos que no puedes perderte, ¡Inscríbete ya!
+						</p>
+						<a href="#" class="btn btn-white btn-outline">
+							Ver oferta
+						</a>
+					</div>
+				</div>
+				<div class="item">
+					<img class="background" src="img/carousel-background-1.png" alt="">
+					<div class="carousel-caption">
+						<h1>
+							Taller de cocina con Ennio Carota
+						</h1>
+						<p>
+							Ennio Carota te enseñará recetas fáciles y divertidas en un maravilloso taller para padres e hijos que no puedes perderte, ¡Inscríbete ya!
+						</p>
+						<a href="#" class="btn btn-white btn-outline">
+							Ver oferta
+						</a>
+					</div>
+				</div>
+			</div>
+			<a class="left carousel-control" href="#home-carousel" role="button" data-slide="prev">
+				<span class="arrow"></span>
+			</a>
+			<a class="right carousel-control" href="#home-carousel" role="button" data-slide="next">
+				<span class="arrow"></span>
+			</a>
+		</div>
+		<section class="promotions">
+			<div class="title">
+				<span>
+					Promociones
+				</span>
+			</div>
+						
+			<div class="row" >
+				<div class="col-sm-12">
+					<div class="row" on-scroll="increaseLimit()" ng-init="limit=16;" >
+						<div class="col-sm-6 col-md-3"  ng-repeat="p in items2 | filter:filtroOferta | limitTo:limit" >
+							<a href="detail.html">
+
+								<div ng-class="{true: 'food-item favorite', false: 'food-item'}[p.premium == 1]">
+									<div class="image-box">
+										<img class="category" src="img/{{p.categoria}}" alt="{{p.nomcategoria}}">
+										
+										<img class="image" ng-repeat="foto in p.fotos | limitTo:1" src="img/{{foto}}" alt="{{p.nombrealiado}}">
+
+									</div>
+									<div class="content">
+										<div class="description">
+											{{p.oferta}}
+										</div>
+										<div class="local-name">
+											{{p.nombrealiado}}
+										</div>
+										<div class="price-before">
+											Antes bs.{{p.precioantes}}
+										</div>
+										<div class="location">
+											<span><img src="img/icon-location.png" alt=""></span>
+											{{p.ciudad}}
+										</div>
+										<div class="price">
+											Bs. {{p.precioahora}}
+										</div>
+									</div>
+								</div>
+							</a>
+						</div>
+						
+					</div>
+				</div>
+			</div>
+		</section>
+		<section class="banner">
+			<span>
+				Espacio publicitario
+			</span>
+			<img src="img/banner-publicity.png" alt="">
+		</section>
+		<section id="banners" class="hidden-xs hidden-sm">
+			<div class="row">
+				<div class="col-sm-6">
+					<a href="#"><img src="img/banner-products.png" alt=""></a>
+				</div>
+				<div class="col-sm-3">
+					<a href="#">
+						<div class="banner-creditcard">
+							<img src="img/background-card.png" class="background" alt="">
+							<div class="content">
+								<div class="logo">
+									<img src="img/logo-black.png" alt="">
+								</div>
+								Te brinda la oportunidad de disfrutar diferentes productos y servicios
+								<span>
+									no esperes más, y empieza a vivir
+								</span>
+								<span class="black">
+									esta nueva experiencia comercial
+								</span>
+							</div>
+							<div class="creditcard">
+								<img src="img/creditcard-empty.png" alt="">
+								<span class="number">
+									0506 3749 9877 6643
+								</span>
+								<span class="name">
+									María A. Rodriguez
+								</span>
+								<span class="date">
+									EXP 08/15
+								</span>
+								<span class="qr">
+									<img src="img/icon-qr.png" alt="">
+								</span>
+							</div>
+						</div>
+					</a>
+				</div>
+				<div class="col-sm-3">
+					<img src="img/banner-twitter.png" alt="">
+				</div>
+			</div>
+		</section>
+	</div>

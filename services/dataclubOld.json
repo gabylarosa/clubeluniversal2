@@ -1,0 +1,167 @@
+[
+  {
+    "userId": 1,
+    "categoria": "catGastronomia",
+    "foto": "http://localhost/clubeluniversal/img/item-gastronomy-5.png",
+    "oferta": "Promoción 2x1 en todas las pastas de la casa más un acompañante por persona",
+    "nombrealiado": "Avila Burger",
+    "direccion": "El hatillo, Caracas",
+    "precioantes": "49.000",
+    "precioahora": "42.000",
+    "premium": "0"
+  },
+  {
+    "userId": 2,
+    "categoria": "catTurismo",
+    "foto": "http://localhost/clubeluniversal/img/item-gastronomy-6.png",
+    "oferta": "Promoción 2x1 en todas las pastas de la casa más un acompañante por persona",
+    "nombrealiado": "Avila Burger",
+    "direccion": "El hatillo, Caracas",
+    "precioantes": "49.000",
+    "precioahora": "40.000",
+    "premium": "1"
+  },
+  {
+    "userId": 3,
+    "categoria": "catHogar",
+    "foto": "http://localhost/clubeluniversal/img/item-gastronomy-5.png",
+    "oferta": "Promoción 2x1 en todas las pastas de la casa más un acompañante por persona",
+    "nombrealiado": "Avila Burger",
+    "direccion": "El hatillo, Caracas",
+    "precioantes": "49.000",
+    "precioahora": "40.000",
+    "premium": "0"
+  },
+  {
+    "userId": 4,
+    "categoria": "catModa",
+    "foto": "http://localhost/clubeluniversal/img/item-gastronomy-5.png",
+    "oferta": "Promoción 2x1 en todas las pastas de la casa más un acompañante por persona",
+    "nombrealiado": "Avila Burger",
+    "direccion": "El hatillo, Caracas",
+    "precioantes": "49.000",
+    "precioahora": "40.000",
+    "premium": "0"
+  },
+  {
+    "userId": 5,
+    "categoria": "catBienestar",
+    "foto": "http://localhost/clubeluniversal/img/item-gastronomy-5.png",
+    "oferta": "Promoción 2x1 en todas las pastas de la casa más un acompañante por persona",
+    "nombrealiado": "Avila Burger",
+    "direccion": "El hatillo, Caracas",
+    "precioantes": "49.000",
+    "precioahora": "40.000",
+    "premium": "0"
+  },
+  {
+    "userId": 6,
+    "categoria": "catEntretenimiento",
+    "foto": "http://localhost/clubeluniversal/img/item-gastronomy-5.png",
+    "oferta": "Promoción 2x1 en todas las pastas de la casa más un acompañante por persona",
+    "nombrealiado": "Avila Burger",
+    "direccion": "El hatillo, Caracas",
+    "precioantes": "49.000",
+    "precioahora": "40.000",
+    "premium": "0"
+  },
+  {
+    "userId": 7,
+    "categoria": "catOtros",
+    "foto": "http://localhost/clubeluniversal/img/item-gastronomy-5.png",
+    "oferta": "Promoción 2x1 en todas las pastas de la casa más un acompañante por persona",
+    "nombrealiado": "Avila Burger",
+    "direccion": "El hatillo, Caracas",
+    "precioantes": "49.000",
+    "precioahora": "40.000",
+    "premium": "0"
+  },
+  {
+    "userId": 8,
+    "categoria": "catOtros",
+    "foto": "http://localhost/clubeluniversal/img/item-gastronomy-5.png",
+    "oferta": "Promoción 2x1 en todas las pastas de la casa más un acompañante por persona",
+    "nombrealiado": "Avila Burger",
+    "direccion": "El hatillo, Caracas",
+    "precioantes": "49.000",
+    "precioahora": "40.000",
+    "premium": "0"
+  },
+  {
+    "userId": 9,
+    "categoria": "catOtros",
+    "foto": "http://localhost/clubeluniversal/img/item-gastronomy-5.png",
+    "oferta": "Promoción 2x1 en todas las pastas de la casa más un acompañante por persona",
+    "nombrealiado": "Avila Burger",
+    "direccion": "El hatillo, Caracas",
+    "precioantes": "49.000",
+    "precioahora": "40.000",
+    "premium": "0"
+  },
+  {
+    "userId": 10,
+    "categoria": "catHogar",
+    "foto": "http://localhost/clubeluniversal/img/item-gastronomy-5.png",
+    "oferta": "Promoción 2x1 en todas las pastas de la casa más un acompañante por persona",
+    "nombrealiado": "Avila Burger",
+    "direccion": "El hatillo, Caracas",
+    "precioantes": "49.000",
+    "precioahora": "40.000",
+    "premium": "0"
+  },
+  {
+    "userId": 11,
+    "categoria": "catOtros",
+    "foto": "http://localhost/clubeluniversal/img/item-gastronomy-5.png",
+    "oferta": "Promoción 2x1 en todas las pastas de la casa más un acompañante por persona",
+    "nombrealiado": "Avila Burger",
+    "direccion": "El hatillo, Caracas",
+    "precioantes": "49.000",
+    "precioahora": "40.000",
+    "premium": "0"
+  },
+  {
+    "userId": 12,
+    "categoria": "catOtros",
+    "foto": "http://localhost/clubeluniversal/img/item-gastronomy-5.png",
+    "oferta": "Promoción 2x1 en todas las pastas de la casa más un acompañante por persona",
+    "nombrealiado": "Avila Burger",
+    "direccion": "El hatillo, Caracas",
+    "precioantes": "49.000",
+    "precioahora": "40.000",
+    "premium": "0"
+  },
+  {
+    "userId": 13,
+    "categoria": "catOtros",
+    "foto": "http://localhost/clubeluniversal/img/item-gastronomy-5.png",
+    "oferta": "13Promoción 2x1 en todas las pastas de la casa más un acompañante por persona",
+    "nombrealiado": "Avila Burger",
+    "direccion": "El hatillo, Caracas",
+    "precioantes": "49.000",
+    "precioahora": "40.000",
+    "premium": "0"
+  },
+  {
+    "userId": 14,
+    "categoria": "catOtros",
+    "foto": "http://localhost/clubeluniversal/img/item-gastronomy-5.png",
+    "oferta": "14Promoción 2x1 en todas las pastas de la casa más un acompañante por persona",
+    "nombrealiado": "Avila Burger",
+    "direccion": "El hatillo, Caracas",
+    "precioantes": "49.000",
+    "precioahora": "40.000",
+    "premium": "0"
+  },
+  {
+    "userId": 15,
+    "categoria": "catOtros",
+    "foto": "http://localhost/clubeluniversal/img/item-gastronomy-5.png",
+    "oferta": "15Promoción 2x1 en todas las pastas de la casa más un acompañante por persona",
+    "nombrealiado": "Avila Burger",
+    "direccion": "El hatillo, Caracas",
+    "precioantes": "49.000",
+    "precioahora": "40.000",
+    "premium": "0"
+  }
+]

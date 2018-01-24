@@ -1,0 +1,237 @@
+<header ><div ng-controller="categoryOffersController">
+		<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+			<span class="icon-bar"></span>
+			<span class="icon-bar"></span>
+			<span class="icon-bar"></span>
+		</button>
+		<span class="cart visible-xs visible-sm">
+			<img src="img/icon-cart-white.png" alt="">
+			<span class="badge">
+				2
+			</span>
+		</span>
+		<div class="container-fluid">
+			<div class="row">
+				<div class="col-lg-3 col-md-3">
+					<div class="logo">
+						<img src="img/logo-slogan.png" alt="">
+						<img class="hide" src="img/logo-sticky.png" alt="">
+					</div>
+				</div>
+				<div class="col-lg-6 col-lg-offset-3 col-md-7 col-md-offset-2 col-sm-12">
+					<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+						<div class="row">
+							<div class="col-md-6">
+								<div class="input-group user small">
+									<span class="input-group-addon">
+										<span class="btn btn-yellow">
+											<img src="img/icon-user-black.png" alt="">
+										</span>
+									</span>
+									<div class="btn-group">
+										<button type="button" class="btn btn-yellow dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+											Fabricio Petit <img class="arrow" src="img/icon-arrow-down-black.png" alt="">
+										</button>
+										<ul class="dropdown-menu">
+											<li><a href="#">Mi cuenta</a></li>
+											<li role="separator" class="divider"></li>
+											<li><a href="#">Salir</a></li>
+										</ul>
+									</div>
+									<span class="input-group-addon hidden-xs hidden-sm">
+										<span class="cart">
+											<img src="img/icon-cart-white.png" alt="">
+											<span class="badge">
+												2
+											</span>
+										</span>
+									</span>
+								</div>
+							</div>
+							<div class="col-xs-12 visible-xs visible-sm">
+								<div class="input-group">
+									<input type="text" class="form-control" ng-model="filtroOferta" placeholder="Palabra clave">
+									<span class="input-group-addon">
+										<a href="#" class="btn btn-yellow">
+											<img src="img/icon-search-black.png" alt="">
+										</a>
+									</span>
+								</div><br>
+							</div>
+							<div class="col-md-3">
+								<div class="btn-group small btn-block">
+									<button type="button" class="btn btn-yellow btn-block btn-outline dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+										Beneficios <img class="arrow" src="img/icon-arrow-down-yellow.png" alt="">
+									</button>
+									<ul class="dropdown-menu">
+										<li><a href="#">Aliados</a></li>
+										<li role="separator" class="divider"></li>
+										<li><a href="#">Socios</a></li>
+									</ul>
+								</div>
+							</div>
+							<div class="col-md-3">
+								<a href="#" class="btn btn-yellow btn-block btn-outline">
+									Suscribete
+									<img src="img/icon-subscribe.png" alt="">
+								</a>
+							</div>
+						</div>
+						<div class="row hidden-xs hidden-sm">
+							<div class="col-xs-12">
+								<div class="input-group">
+									<div class="btn-group categories input-group-addon">
+										<dl id="sample" class="dropdown">
+											<dt>
+												<a href="javascript:void(0);">
+													<span>
+														<img src="img/icon-categories-black.png" alt=""> Categorías <img class="arrow" src="img/icon-arrow-down-black.png" alt="">
+													</span>
+												</a>
+											</dt>
+											<dd>
+												<ul>
+													<li ng-class="{'active':isActive2}">
+														<a href="#/promotions/Gastronomía" ng-click="select('2')">
+															<img src="img/icon-gastronomy.png" alt=""> Gastronomía <img class="arrow" src="img/icon-arrow-down-black.png" alt="">
+														</a>
+													</li>
+													<li ng-class="{'active':isActive3}">
+														<a href="#/promotions/Turismo" ng-click="select('3')">
+															<img src="img/icon-turism.png" alt=""> Turísmo <img class="arrow" src="img/icon-arrow-down-black.png" alt="">
+														</a>
+													</li>
+													<li ng-class="{'active':isActive4}">
+														<a href="#/promotions/Moda" ng-click="select('4')">
+															<img src="img/icon-fashion.png" alt=""> Moda <img class="arrow" src="img/icon-arrow-down-black.png" alt="">
+														</a>
+													</li>
+													<li ng-class="{'active':isActive5}">
+														<a href="#/promotions/Bienestar" ng-click="select('5')">
+															<img src="img/icon-wellbeing.png" alt=""> Bienestar <img class="arrow" src="img/icon-arrow-down-black.png" alt="">
+														</a>
+													</li>
+													<li ng-class="{'active':isActive6}">
+														<a href="#/promotions/Entretenimiento" ng-click="select('6')">
+															<img src="img/icon-entertaiment.png" alt=""> Entretenimiento <img class="arrow" src="img/icon-arrow-down-black.png" alt="">
+														</a>
+													</li>
+													<li ng-class="{'active':isActive7}">
+														<a href="#/promotions/Hogar" ng-click="select('7')">
+															<img src="img/icon-paint.png" alt=""> Hogar <img class="arrow" src="img/icon-arrow-down-black.png" alt="">
+														</a>
+													</li>
+													<li ng-class="{'active':isActive8}">
+														<a href="#/promotions/Otros" ng-click="select('8')">
+															<img src="img/icon-other.png" alt=""> Otros <img class="arrow" src="img/icon-arrow-down-black.png" alt="">
+														</a>
+													</li>
+												</ul>
+											</dd>
+										</dl>
+									</div>
+									<input type="text" class="form-control" ng-model="filtroOferta" placeholder="Palabra clave">
+									<span class="input-group-addon">
+										<a href="#" class="btn btn-yellow">
+											<img src="img/icon-search-black.png" alt="">
+										</a>
+									</span>
+								</div>
+							</div>
+						</div>
+						<div class="row visible-xs visible-sm">
+							<div class="col-xs-12">
+								<ul class="mobile-menu">
+									<li ng-class="{'active':isActive2}">
+										<a href="#/promotions/Gastronomía" ng-click="select('2')">
+											<img src="img/icon-gastronomy-white.png" alt=""> Gastronomía 
+										</a>
+									</li>
+									<li ng-class="{'active':isActive3}">
+										<a href="#/promotions/Turismo" ng-click="select('3')">
+											<img src="img/icon-turism-white.png" alt=""> Turísmo 
+										</a>
+									</li>
+									<li ng-class="{'active':isActive4}">
+										<a href="#" ng-click="select('4')">
+											<img src="img/icon-fashion-white.png" alt=""> Moda
+										</a>
+									</li>
+									<li ng-class="{'active':isActive5}">
+										<a href="#/promotions/Bienestar" ng-click="select('5')">
+											<img src="img/icon-wellbeing-white.png" alt=""> Bienestar
+										</a>
+									</li>
+									<li ng-class="{'active':isActive6}">
+										<a href="#/promotions/Entretenimiento" ng-click="select('6')">
+											<img src="img/icon-entertaiment-white-active.png" alt=""> Entretenimiento 
+										</a>
+									</li>
+									<li ng-class="{'active':isActive7}">
+										<a href="#/promotions/Hogar" ng-click="select('7')">
+											<img src="img/icon-paint-white.png" alt=""> Hogar
+										</a>
+									</li>
+									<li ng-class="{'active':isActive8}">
+										<a href="#/promotions/Otros" ng-click="select('8')">
+											<img src="img/icon-other-white.png" alt=""> Otros
+										</a>
+									</li>
+								</ul>
+							</div>
+						</div>
+					</div>
+				</div>
+				<ul class="sticky-menu hide" >
+					<li  ng-class="{'active':isActive1}">
+						<a href="#/" ng-click="select('1')">
+							<img class="active" src="img/icon-home-active.png" alt="">
+							<img src="img/icon-home-white.png" alt="">
+						</a>
+					</li>
+					<li  ng-class="{'active':isActive2}">
+						<a href="#/promotions/Gastronomía" ng-click="select('2')">
+							<img class="active" src="img/icon-gastronomy-active.png" alt="">
+							<img src="img/icon-gastronomy-white.png" alt="">
+						</a>
+					</li>
+					<li  ng-class="{'active':isActive3}">
+						<a href="#/promotions/Turismo" ng-click="select('3')">
+							<img class="active" src="img/icon-turism-active.png" alt="">
+							<img src="img/icon-turism-white.png" alt="">
+						</a>
+					</li>
+					<li  ng-class="{'active':isActive4}">
+						<a href="#/promotions/Moda" ng-click="select('4')">
+							<img class="active" src="img/icon-fashion-active.png" alt="">
+							<img src="img/icon-fashion-white.png" alt="">
+						</a>
+					</li>
+					<li  ng-class="{'active':isActive5}">
+						<a href="#/promotions/Bienestar" ng-click="select('5')">
+							<img class="active" src="img/icon-wellbeing-active.png" alt="">
+							<img src="img/icon-wellbeing-white.png" alt="">
+						</a>
+					</li>
+					<li  ng-class="{'active':isActive6}">
+						<a href="#/promotions/Entretenimiento" ng-click="select('6')">
+							<img class="active" src="img/icon-entertaiment-active.png" alt="">
+							<img src="img/icon-entertaiment-white.png" alt="">
+						</a>
+					</li>
+					<li  ng-class="{'active':isActive7}">
+						<a href="#/promotions/Hogar" ng-click="select('7')">
+							<img class="active" src="img/icon-paint-active.png" alt="">
+							<img src="img/icon-paint-white.png" alt="">
+						</a>
+					</li>
+					<li  ng-class="{'active':isActive8}">
+						<a href="#/promotions/Otros" ng-click="select('8')">
+							<img class="active" src="img/icon-other-active.png" alt="">
+							<img src="img/icon-other-white.png" alt="">
+						</a>
+					</li>
+				</ul>
+			</div>
+		</div>
+</div></header>

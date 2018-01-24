@@ -1,0 +1,576 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8" />
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>El Universal</title>
+	<link rel="stylesheet" type="text/css" href="css/bootstrap.min.css" />
+	<link rel="stylesheet" type="text/css" href="css/style.css" />
+</head>
+<body ng-app='myApp' ng-controller="testController">
+	<header ng-include="'includes/header.html'"></header>
+	<ul class="menu" ng-include="'includes/menuDesktop.html'"></ul>
+	<div class="container">
+		<ol class="breadcrumb">
+			<li><a href="#">Inicio</a></li>
+			<li><a href="#">Gastronomía</a></li>
+			<li class="active">Oferta</li>
+		</ol>
+		<section class="detail">
+			<div class="row">
+				<div class="col-md-6">
+					<div id="detail-carousel" class="carousel slide" data-ride="carousel">
+						<div class="carousel-inner" role="listbox">
+							<div class="item active">
+								<img src="img/carousel-gastronomy-1.png" alt="">
+							</div>
+							<div class="item">
+								<img src="img/carousel-gastronomy-1.png" alt="">
+							</div>
+							<div class="item">
+								<img src="img/carousel-gastronomy-1.png" alt="">
+							</div>
+							<div class="item">
+								<img src="img/carousel-gastronomy-1.png" alt="">
+							</div>
+							<div class="item">
+								<img src="img/carousel-gastronomy-1.png" alt="">
+							</div>
+							<div class="item">
+								<img src="img/carousel-gastronomy-1.png" alt="">
+							</div>
+						</div>
+						<div class="indicators-control">
+							<a href="#" class="indicator-control left">
+								<span class="arrow"></span>
+							</a>
+							<a href="#" class="indicator-control right">
+								<span class="arrow"></span>
+							</a>
+							<ol class="carousel-indicators">
+								<li data-target="#detail-carousel" data-slide-to="0" class="active">
+									<img src="img/gastronomy-paginator-1.png" alt="">
+								</li>
+								<li data-target="#detail-carousel" data-slide-to="1">
+									<img src="img/gastronomy-paginator-2.png" alt="">
+								</li>
+								<li data-target="#detail-carousel" data-slide-to="2">
+									<img src="img/gastronomy-paginator-3.png" alt="">
+								</li>
+								<li data-target="#detail-carousel" data-slide-to="3">
+									<img src="img/gastronomy-paginator-4.png" alt="">
+								</li>
+								<li data-target="#detail-carousel" data-slide-to="4">
+									<img src="img/gastronomy-paginator-2.png" alt="">
+								</li>
+								<li data-target="#detail-carousel" data-slide-to="5">
+									<img src="img/gastronomy-paginator-3.png" alt="">
+								</li>
+							</ol>
+						</div>
+						<a class="left carousel-control" href="#detail-carousel" role="button" data-slide="prev">
+							<span class="arrow"></span>
+						</a>
+						<a class="right carousel-control" href="#detail-carousel" role="button" data-slide="next">
+							<span class="arrow"></span>
+						</a>
+					</div>
+				</div>
+				<div class="col-md-6">
+					<div class="details">
+						<span class="valid">
+							Oferta válida hasta el lunes 31 de julio de 2016
+						</span>
+						<div class="title">
+							Paga Bs. 46.900 y consume Bs. 90.000 más 2 tintos de verano en Chirú.
+						</div>
+						<div class="row">
+							<div class="col-sm-6">
+								<div class="location">
+									<img src="img/icon-location-circle.png" alt="">
+									<strong>
+										Buraco Gourmet & Fondue
+									</strong>	
+									CC Las Cupulas, Los Palos Grandes.
+								</div>
+							</div>
+							<div class="col-sm-6 text-right">
+								<div class="price">
+									<span class="old">
+										Antes Bs. 90.000
+									</span>
+									Bs. 46.900
+								</div>
+							</div>
+						</div>
+						<div class="row">
+							<div class="col-xs-6 col-sm-6">
+								<div class="rating">
+									<span class="on"></span>
+									<span class="on"></span>
+									<span class="on"></span>
+									<span class="on"></span>
+									<span></span>
+									<span></span>
+									<span></span>
+								</div>
+								<div class="rating-text">
+									Promedio 3,3 de 5 (60 votos)
+								</div>
+								<div class="share">
+									<a href="#">
+										<img src="img/icon-share.png" alt="">
+									</a>
+									<ul class="social">
+										<li>
+											<a href="#">
+												<img src="img/icon-facebook-white.png" alt="">
+											</a>
+										</li>
+										<li>
+											<a href="#">
+												<img src="img/icon-twitter-white.png" alt="">
+											</a>
+										</li>
+										<li>
+											<a href="#">
+												<img src="img/icon-message-white.png" alt="">
+											</a>
+										</li>
+									</ul>
+								</div>
+							</div>
+							<div class="col-xs-6 col-sm-6 text-right">
+								<div class="input-group buy">
+									<span class="input-group-addon">
+										<input type="number" value="1">
+									</span>
+									<a href="#" class="btn btn-yellow btn-lg">
+										<strong>
+											Comprar
+										</strong>
+									</a>
+								</div>
+								<a href="#" class="present">
+									<img src="img/icon-present.png" alt="">
+									Enviar como regalo
+								</a>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="row">
+				<div class="col-sm-6">
+					<div class="section-title">
+						Detalles de la oferta
+					</div>
+					<ul>
+						<li>
+							Paga Bs.46.900 y consume Bs. 10.000 más 2 tintos de verano (de lunes a domingos) en Chirú.
+						</li>
+						<li>
+							Con la compra del cupón podrás disfrutar de 2 tintos de verano de lunes a domingos.
+						</li>
+					</ul>
+					<div class="section-title">
+						Condiciones
+					</div>
+					<ul>
+						<li>
+							Válido desde el 25 de julio hasta el 25 de agosto de 2016.
+						</li>
+						<li>
+							Compra tu cupón y comunícate con el establecimiento para hacer tu reserva.
+						</li>
+						<li>
+							Horario: Lunes, Martes, Miercoles de 12:00pm a 130:00pm / Jueves y viernes de 12:00pm a 11:30pm / Sábados de 1:00pm a 11:30pm y Domingos de 1:00pm a 10:00pm.
+						</li>
+						<li>
+							Presenta el cupón al llegar.
+						</li>
+						<li>
+							No es válido para 1 persona.
+						</li>
+						<li>
+							No es válido para personas menores de 12 años.
+						</li>
+						<li>
+							El menú esta sujetoa cambios.
+						</li>
+						<li>
+							El 10% no está incluido en el cupón.
+						</li>
+						<li>
+							El monto de la propina lo decide el usuario del cupón.
+						</li>
+					</ul>
+				</div>
+				<div class="col-sm-6">
+					<div class="section-title">
+						Ubicación
+					</div>
+					<div class="map">
+						<div id="map" style="width:100%;height:500px"></div>
+						<div class="local">
+							<strong>
+								Chirú
+							</strong>
+							<p>
+								<strong>
+									Dirección: 
+								</strong>
+								2da Av entre 4ta y 5ta transversal, CC Las Cupulas, Los Palos Grandes, Caracas
+							</p>
+							<p>
+								<strong>
+									Teléfonos: 
+								</strong>
+								0212-2851960
+							</p>
+							<p>
+								<strong>
+									Página web:
+								</strong>
+								<a href="#">
+									www.chiru.com.ve
+								</a>
+							</p>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="row">
+				<div class="col-xs-12">
+					<h3 class="text-center">
+						OTRAS OFERTAS DE ESTE ALIADO
+					</h3>
+					<div id="ally-carousel" class="carousel related slide hidden-xs hidden-sm" data-ride="carousel">
+						<div class="carousel-inner" role="listbox">
+							<div class="item active">
+								<div class="row">
+									<div class="col-sm-4">
+										<a href="#">
+											<span class="ally-item">
+												<img src="img/carousel-small-1.png" alt="">
+												<span class="description">
+													Promoción 2x1 en todas las pastas y 1 acompañante.
+													<strong>La Traviata</strong>
+												</span>
+											</span>
+										</a>
+									</div>
+									<div class="col-sm-4">
+										<a href="#">
+											<span class="ally-item">
+												<img src="img/carousel-small-2.png" alt="">
+												<span class="description">
+													Promoción 2x1 en todas las pastas y 1 acompañante.
+													<strong>La Traviata</strong>
+												</span>
+											</span>
+										</a>
+									</div>
+									<div class="col-sm-4">
+										<a href="#">
+											<span class="ally-item">
+												<img src="img/carousel-small-3.png" alt="">
+												<span class="description">
+													Promoción 2x1 en todas las pastas y 1 acompañante.
+													<strong>La Traviata</strong>
+												</span>
+											</span>
+										</a>
+									</div>
+								</div>
+							</div>
+							<div class="item">
+								<div class="row">
+									<div class="col-sm-4">
+										<a href="#">
+											<span class="ally-item">
+												<img src="img/carousel-small-1.png" alt="">
+												<span class="description">
+													Promoción 2x1 en todas las pastas y 1 acompañante.
+													<strong>La Traviata</strong>
+												</span>
+											</span>
+										</a>
+									</div>
+									<div class="col-sm-4">
+										<a href="#">
+											<span class="ally-item">
+												<img src="img/carousel-small-2.png" alt="">
+												<span class="description">
+													Promoción 2x1 en todas las pastas y 1 acompañante.
+													<strong>La Traviata</strong>
+												</span>
+											</span>
+										</a>
+									</div>
+									<div class="col-sm-4">
+										<a href="#">
+											<span class="ally-item">
+												<img src="img/carousel-small-3.png" alt="">
+												<span class="description">
+													Promoción 2x1 en todas las pastas y 1 acompañante.
+													<strong>La Traviata</strong>
+												</span>
+											</span>
+										</a>
+									</div>
+								</div>
+							</div>
+						</div>
+						<a class="left carousel-control" href="#ally-carousel" role="button" data-slide="prev">
+							<span class="arrow"></span>
+						</a>
+						<a class="right carousel-control" href="#ally-carousel" role="button" data-slide="next">
+							<span class="arrow"></span>
+						</a>
+					</div>
+					<div id="ally-carousel-small" class="carousel related slide visible-xs visible-sm" data-ride="carousel">
+						<div class="carousel-inner" role="listbox">
+							<div class="item active">
+								<div class="row">
+									<div class="col-sm-12">
+										<a href="#">
+											<span class="ally-item">
+												<img src="img/carousel-small-1.png" alt="">
+												<span class="description">
+													Promoción 2x1 en todas las pastas y 1 acompañante.
+													<strong>La Traviata</strong>
+												</span>
+											</span>
+										</a>
+									</div>
+								</div>
+							</div>
+							<div class="item">
+								<div class="row">
+									<div class="col-sm-12">
+										<a href="#">
+											<span class="ally-item">
+												<img src="img/carousel-small-2.png" alt="">
+												<span class="description">
+													Promoción 2x1 en todas las pastas y 1 acompañante.
+													<strong>La Traviata</strong>
+												</span>
+											</span>
+										</a>
+									</div>
+								</div>
+							</div>
+							<div class="item">
+								<div class="row">
+									<div class="col-sm-12">
+										<a href="#">
+											<span class="ally-item">
+												<img src="img/carousel-small-3.png" alt="">
+												<span class="description">
+													Promoción 2x1 en todas las pastas y 1 acompañante.
+													<strong>La Traviata</strong>
+												</span>
+											</span>
+										</a>
+									</div>
+								</div>
+							</div>
+						</div>
+						<a class="left carousel-control" href="#ally-carousel-small" role="button" data-slide="prev">
+							<span class="arrow"></span>
+						</a>
+						<a class="right carousel-control" href="#ally-carousel-small" role="button" data-slide="next">
+							<span class="arrow"></span>
+						</a>
+					</div>
+				</div>
+			</div>
+			<section class="banner">
+				<span>
+					Espacio publicitario
+				</span>
+				<img src="img/banner-publicity.png" alt="">
+			</section>
+			<section class="related-offers">
+				<div class="row">
+					<div class="col-md-3">
+						<h2 class="title">
+							ofertas relacionadas
+						</h2>
+					</div>
+					<div class="col-md-9">
+						<div id="related-carousel" class="carousel related small slide hidden-xs hidden-sm" data-ride="carousel">
+							<div class="carousel-inner" role="listbox">
+								<div class="item active">
+									<div class="row">
+										<div class="col-sm-4">
+											<a href="#">
+												<span class="ally-item">
+													<img src="img/carousel-small-1.png" alt="">
+													<span class="description">
+														Promoción 2x1 en todas las pastas y 1 acompañante.
+														<strong>La Traviata</strong>
+													</span>
+												</span>
+											</a>
+										</div>
+										<div class="col-sm-4">
+											<a href="#">
+												<span class="ally-item">
+													<img src="img/carousel-small-2.png" alt="">
+													<span class="description">
+														Promoción 2x1 en todas las pastas y 1 acompañante.
+														<strong>La Traviata</strong>
+													</span>
+												</span>
+											</a>
+										</div>
+										<div class="col-sm-4">
+											<a href="#">
+												<span class="ally-item">
+													<img src="img/carousel-small-3.png" alt="">
+													<span class="description">
+														Promoción 2x1 en todas las pastas y 1 acompañante.
+														<strong>La Traviata</strong>
+													</span>
+												</span>
+											</a>
+										</div>
+									</div>
+								</div>
+								<div class="item">
+									<div class="row">
+										<div class="col-sm-4">
+											<a href="#">
+												<span class="ally-item">
+													<img src="img/carousel-small-1.png" alt="">
+													<span class="description">
+														Promoción 2x1 en todas las pastas y 1 acompañante.
+														<strong>La Traviata</strong>
+													</span>
+												</span>
+											</a>
+										</div>
+										<div class="col-sm-4">
+											<a href="#">
+												<span class="ally-item">
+													<img src="img/carousel-small-2.png" alt="">
+													<span class="description">
+														Promoción 2x1 en todas las pastas y 1 acompañante.
+														<strong>La Traviata</strong>
+													</span>
+												</span>
+											</a>
+										</div>
+										<div class="col-sm-4">
+											<a href="#">
+												<span class="ally-item">
+													<img src="img/carousel-small-3.png" alt="">
+													<span class="description">
+														Promoción 2x1 en todas las pastas y 1 acompañante.
+														<strong>La Traviata</strong>
+													</span>
+												</span>
+											</a>
+										</div>
+									</div>
+								</div>
+							</div>
+							<a class="left carousel-control" href="#related-carousel" role="button" data-slide="prev">
+								<span class="arrow"></span>
+							</a>
+							<a class="right carousel-control" href="#related-carousel" role="button" data-slide="next">
+								<span class="arrow"></span>
+							</a>
+						</div>
+						<div id="ally-carousel-small-2" class="carousel related small slide visible-xs visible-sm" data-ride="carousel">
+							<div class="carousel-inner" role="listbox">
+								<div class="item active">
+									<div class="row">
+										<div class="col-sm-12">
+											<a href="#">
+												<span class="ally-item">
+													<img src="img/carousel-small-1.png" alt="">
+													<span class="description">
+														Promoción 2x1 en todas las pastas y 1 acompañante.
+														<strong>La Traviata</strong>
+													</span>
+												</span>
+											</a>
+										</div>
+									</div>
+								</div>
+								<div class="item">
+									<div class="row">
+										<div class="col-sm-12">
+											<a href="#">
+												<span class="ally-item">
+													<img src="img/carousel-small-2.png" alt="">
+													<span class="description">
+														Promoción 2x1 en todas las pastas y 1 acompañante.
+														<strong>La Traviata</strong>
+													</span>
+												</span>
+											</a>
+										</div>
+									</div>
+								</div>
+								<div class="item">
+									<div class="row">
+										<div class="col-sm-12">
+											<a href="#">
+												<span class="ally-item">
+													<img src="img/carousel-small-3.png" alt="">
+													<span class="description">
+														Promoción 2x1 en todas las pastas y 1 acompañante.
+														<strong>La Traviata</strong>
+													</span>
+												</span>
+											</a>
+										</div>
+									</div>
+								</div>
+							</div>
+							<a class="left carousel-control" href="#ally-carousel-small-2" role="button" data-slide="prev">
+								<span class="arrow"></span>
+							</a>
+							<a class="right carousel-control" href="#ally-carousel-small-2" role="button" data-slide="next">
+								<span class="arrow"></span>
+							</a>
+						</div>
+					</div>
+				</div>
+			</section>
+		</section>
+	</div>
+	<footer ng-include="'includes/footer.html'"></footer>
+
+	<script>
+		function myMap() {
+			var mapCanvas = document.getElementById("map");
+			var mapOptions = {
+				center: new google.maps.LatLng(51.5, -0.2), 
+				zoom: 10
+			}
+			var map = new google.maps.Map(mapCanvas, mapOptions);
+		}
+	</script>
+
+	<script src="https://maps.googleapis.com/maps/api/js?callback=myMap"></script>
+	<script src="js/jquery.min.js"></script>
+	<script src="js/bootstrap.min.js"></script>
+	<script src="js/main.js"></script>
+	<script>
+		$('#detail-carousel').carousel({
+			interval: 2000000	
+		});
+	</script>
+	<script type="text/javascript" src="js/angular.min.js"></script>
+	<!--Controllers-->
+	<script type="text/javascript" src="controllers/testController.js"></script>
+	<!--Services-->
+	<script type="text/javascript" src="services/testService.js"></script>
+</body>
+</html>

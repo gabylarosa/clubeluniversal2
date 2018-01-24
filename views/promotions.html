@@ -1,0 +1,209 @@
+
+	<div class="container" ng-controller="categoryOffersController">
+		<ol class="breadcrumb">
+			<li><a href="#">Inicio</a></li>
+			<li><a href="#">Gastronomía</a></li>
+			<li class="active">Oferta</li>
+		</ol>
+		<div id="home-carousel" class="carousel slide" data-ride="carousel">
+			<ol class="carousel-indicators">
+				<li data-target="#home-carousel" data-slide-to="0" class="active"></li>
+				<li data-target="#home-carousel" data-slide-to="1"></li>
+				<li data-target="#home-carousel" data-slide-to="2"></li>
+				<li data-target="#home-carousel" data-slide-to="3"></li>
+			</ol>
+			<div class="carousel-inner" role="listbox">
+				<div class="item active">
+					<img class="background" src="img/carousel-background-1.png" alt="">
+					<div class="carousel-caption">
+						<h1>
+							Taller de cocina con Ennio Carota
+						</h1>
+						<p>
+							Ennio Carota te enseñará recetas fáciles y divertidas en un maravilloso taller para padres e hijos que no puedes perderte, ¡Inscríbete ya!
+						</p>
+						<a href="#" class="btn btn-white btn-outline">
+							Ver oferta
+						</a>
+					</div>
+				</div>
+				<div class="item">
+					<img class="background" src="img/carousel-background-1.png" alt="">
+					<div class="carousel-caption">
+						<h1>
+							Taller de cocina con Ennio Carota
+						</h1>
+						<p>
+							Ennio Carota te enseñará recetas fáciles y divertidas en un maravilloso taller para padres e hijos que no puedes perderte, ¡Inscríbete ya!
+						</p>
+						<a href="#" class="btn btn-white btn-outline">
+							Ver oferta
+						</a>
+					</div>
+				</div>
+				<div class="item">
+					<img class="background" src="img/carousel-background-1.png" alt="">
+					<div class="carousel-caption">
+						<h1>
+							Taller de cocina con Ennio Carota
+						</h1>
+						<p>
+							Ennio Carota te enseñará recetas fáciles y divertidas en un maravilloso taller para padres e hijos que no puedes perderte, ¡Inscríbete ya!
+						</p>
+						<a href="#" class="btn btn-white btn-outline">
+							Ver oferta
+						</a>
+					</div>
+				</div>
+				<div class="item">
+					<img class="background" src="img/carousel-background-1.png" alt="">
+					<div class="carousel-caption">
+						<h1>
+							Taller de cocina con Ennio Carota
+						</h1>
+						<p>
+							Ennio Carota te enseñará recetas fáciles y divertidas en un maravilloso taller para padres e hijos que no puedes perderte, ¡Inscríbete ya!
+						</p>
+						<a href="#" class="btn btn-white btn-outline">
+							Ver oferta
+						</a>
+					</div>
+				</div>
+			</div>
+			<a class="left carousel-control" href="#home-carousel" role="button" data-slide="prev">
+				<span class="arrow"></span>
+			</a>
+			<a class="right carousel-control" href="#home-carousel" role="button" data-slide="next">
+				<span class="arrow"></span>
+			</a>
+		</div>
+		<section class="banner">
+			<span>
+				Espacio publicitario
+			</span>
+			<img src="img/banner-publicity.png" alt="">
+		</section>
+		<section class="sales">
+			<div class="row">
+				<div class="col-md-3">
+					<div class="section-title visible-md visible-lg">
+						Ofertas
+					</div>
+				</div>
+			</div>
+			<div class="row">
+				<div class="col-md-3">
+					<div class="row">
+						<div class="col-xs-6 col-sm-6 col-md-12">
+							<div class="section-title visible-sm visible-xs">
+								<img class="visible-xs visible-sm" src="img/icon-sales.png" alt="">
+								Ofertas
+								<span class="arrow"></span>
+							</div>
+							<ul class="sort-tab">
+								<li>
+									<a href="#">
+										<img src="img/icon-last-items.png" alt="">
+										<span>
+											Lo último (7)
+										</span>
+									</a>
+								</li>
+								<li>
+									<a href="#">
+										<img src="img/icon-most-seen.png" alt="">
+										<span>
+											Lo más visto (21)
+										</span>
+									</a>
+								</li>
+								<li>
+									<a href="#">
+										<img src="img/icon-most-buyed.png" alt="">
+										<span>
+											Lo más comprado (15)
+										</span>
+									</a>
+								</li>
+							</ul>
+						</div>
+						<div class="col-xs-6 col-sm-6 col-md-12">
+							<div class="section-title" style="margin-left: -15px;">
+								<img class="visible-xs visible-sm" src="img/icon-location.png" alt="">
+								Ciudades
+								<span class="arrow"></span>
+							</div>
+							<ul class="cities">
+								<li>
+									<a href="#">
+										Caracas
+									</a>
+								</li>
+								<li>
+									<a href="#">
+										Valencia
+									</a>
+								</li>
+								<li>
+									<a href="#">
+										Maturín
+									</a>
+								</li>
+								<li>
+									<a href="#">
+										Maracaibo
+									</a>
+								</li>
+								<li>
+									<a href="#">
+										Puerto La Cruz
+									</a>
+								</li>
+								<li>
+									<a href="#">
+										Maracay
+									</a>
+								</li>
+								<li>
+									<a href="#">
+										Más ciudades
+									</a>
+								</li>
+							</ul>
+						</div>
+					</div>
+				</div>
+				<div class="col-md-9">
+					<div class="row" on-scroll="increaseLimit()" ng-init="limit=16;">
+						<div class="col-sm-6 col-md-4" ng-repeat="offer in items | filter:{nomcategoria:nombreCat} | limitTo:limit">
+							<a href="detail.html">
+								<div class="food-item" ng-class="{true: 'food-item favorite', false: 'food-item'}[offer.premium == 1]">
+									<img class="image" ng-repeat="foto in offer.fotos | limitTo:1" src="img/{{foto}}" alt="{{offer.nombrealiado}}">
+									<div class="content">
+										<div class="description">
+											{{offer.oferta}}
+										</div>
+										<div class="local-name">
+											{{offer.nombrealiado}}
+										</div>
+										<div class="price-before">
+											Antes bs.{{offer.precioantes}}
+										</div>
+										<div class="location">
+											<span><img src="img/icon-location.png" alt="{{offer.ciudad}}"></span>
+											{{offer.ciudad}}
+										</div>
+										<div class="price">
+											Bs. {{offer.precioahora}}
+										</div>
+									</div>
+								</div>
+							</a>
+						</div>
+						
+					</div>
+				</div>
+			</div>
+		</section>
+	</div>
+	

@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8" />
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>El Universal</title>
+	<link rel="stylesheet" type="text/css" href="css/bootstrap.min.css" />
+	<link rel="stylesheet" type="text/css" href="css/style.css" />
+	<script src="https://www.google.com/recaptcha/api.js" async defer></script>
+</head>
+<body ng-app='myApp' ng-controller="testController">
+	<header ng-include="'includes/header.html'"></header>
+	<ul class="menu" ng-include="'includes/menuDesktop.html'"></ul>
+	<div class="container">
+		<ol class="breadcrumb">
+			<li><a href="#">Inicio</a></li>
+			<li class="active">Contáctos</li>
+		</ol>
+		<section class="section-banner">
+			<img src="img/banner-contact.png" alt="">
+		</section>
+		<section class="contact">
+			<h4>
+				<strong>
+					¡Comunicarte con Culb El Universal es muy fácil! ponemos a tu disposición diferentes canales de contácto
+				</strong>
+			</h4>
+			<div class="row">
+				<div class="col-sm-6">
+					<h4>
+						<strong>
+							Club
+						</strong>
+					</h4>
+					<p>
+						Para cualquier detalle referente a ofertas o funcionamiento de la página, puedes llamar a nuestro Centro de Atención Telefónica:
+					</p>
+					<div class="info-banner">
+						<div class="icon">
+							<img src="img/icon-chat.png" alt="">
+						</div>
+						<p>
+							0501-505.20.20
+							<small>
+								Lunes a Viernes de 8:30 AM - 5:30 PM
+							</small>
+						</p>
+					</div>
+					<p>
+						También nos puedes escribir un correo a:
+					</p>
+					<div class="info-banner">
+						<div class="icon">
+							<img src="img/icon-inbox.png" alt="">
+						</div>
+						<p>
+							club@eluniversal.com
+						</p>
+					</div>
+					<h4>
+						<strong>
+							Suscripciones
+						</strong>
+					</h4>
+					<p>
+						Si deseas suscribirte a cualquiera de nuestros productos o tienes alguna duda referente a los diferentes planes de suscripción, puedes llamar a nuestro Centro de Atención Telefónica:
+					</p>
+					<div class="info-banner">
+						<div class="icon">
+							<img src="img/icon-chat.png" alt="">
+						</div>
+						<p>
+							0501-505.20.20
+							<small>
+								Lunes a Viernes de 8:30 AM - 5:30 PM
+							</small>
+						</p>
+					</div>
+				</div>
+				<div class="col-sm-6">
+					<h4>
+						<strong>
+							Formulario de contácto
+						</strong>
+					</h4>
+					<p>
+						Si lo deseas puedes completar los siguientes campos y describirnos tu inquietud:
+					</p>
+					<div class="well">
+						<form action="">
+							<input type="text" class="form-control" placeholder="Nombre y Apellidos">
+							<input type="email" class="form-control" placeholder="Correo">
+							<input type="tel" class="form-control" placeholder="Teléfono">
+							<div class="btn-group btn-block">
+								<button type="button" class="btn btn-block dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true">
+									Razón <img class="arrow" src="img/icon-arrow-down-black.png" alt="">
+								</button>
+								<ul class="dropdown-menu">
+									<li>
+										<a href="#">Problemas con una oferta</a>
+									</li>
+									<li>
+										<a href="#">Información para Socios</a>
+									</li>
+									<li>
+										<a href="#">Información para Aliados</a>
+									</li>
+									<li>
+										<a href="#">Publicidad</a>
+									</li>
+									<li>
+										<a href="#">Sugerencias</a>
+									</li>
+									<li>
+										<a href="#">Otros</a>
+									</li>
+								</ul>
+							</div>
+							<textarea name="" id="" cols="30" rows="5" class="form-control" placeholder="Mensaje"></textarea>
+							<div class="text-center">
+								<div class="g-recaptcha" data-sitekey="your_site_key"></div>
+								<input type="submit" value="Enviar">
+							</div>
+						</form>
+					</div>
+				</div>
+			</div>
+		</section>
+	</div>
+	<footer ng-include="'includes/footer.html'"></footer>
+		<script src="js/jquery.min.js"></script>
+	<script src="js/bootstrap.min.js"></script>
+	<script src="js/main.js"></script>
+	<script type="text/javascript" src="js/angular.min.js"></script>
+	<!--Controllers-->
+	<script type="text/javascript" src="controllers/testController.js"></script>
+	<!--Services-->
+	<script type="text/javascript" src="services/testService.js"></script>
+</body>
+</html>

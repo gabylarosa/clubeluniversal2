@@ -1,0 +1,755 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8" />
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>El Universal</title>
+	<link rel="stylesheet" type="text/css" href="css/bootstrap.min.css" />
+	<link rel="stylesheet" type="text/css" href="css/style.css" />
+</head>
+<body ng-app='myApp' ng-controller="testController">
+	<header ng-include="'includes/header.html'"></header>
+	<ul class="menu" ng-include="'includes/menuDesktop.html'"></ul>
+	<div class="container">
+		<ol class="breadcrumb">
+			<li><a href="#">Inicio</a></li>
+			<li><a href="#">Suscripciones</a></li>
+			<li class="active">Oferta</li>
+		</ol>
+	</div>
+	<section class="plans">
+		<div class="container">
+			<div class="row">
+				<div class="col-sm-6">
+					<img src="img/product-main.png" alt="" class="btn-block">
+				</div>
+				<div class="col-sm-6">
+					<h3>
+						<strong>
+							Planes de suscripción El Universal
+						</strong>
+					</h3>
+					<p>
+						Recibe todos los días a primera hora en tu casa u oficina la más completa información del acontecer nacional e internacional. Disponemos de planes a la medida de sus necesidades, descuentos y promociones especiales y pago domiciliado a su tarjeta de crédito o propagado.
+					</p>
+					<p>
+						Nuestros planes han sido concebidos para adaptarse según la frecuencia de entrega y duración que requiera, puede suscribirse de lunes e domingo, de lunes a viernes o fines de semana (sábado y domingo).
+					</p>
+					<p>
+						Puede efectuar el pago con su esteta de crédito (VISA. MasterCard o Diners Club) cancelando el monto total o domiciliando el cargo automático a la misma. También puede pagar con cheque a nombre de cutis El Universal C.A o transferencia bancaria.
+					</p>
+					<p>
+						Contamos con un equipo de distribuidores que garantizan a través de estrictos con-troles de seguridad la entrega oportuna a cada suscriptor. 
+					</p>
+				</div>
+			</div>
+			<div class="panel">
+				<div class="panel-heading">
+					<div class="title">
+						Plan Premium
+					</div>
+					<div class="content">
+						<p>
+							La edición de noticias de lunes a domingo, con la mayor variedad de infornamción a tu alcance.
+						</p>
+					</div>
+					<div class="icon">
+						<img src="img/icon-medal.png" alt="">
+					</div>
+				</div>
+				<table class="table">
+					<thead>
+						<tr>
+							<th>Lunes</th>
+							<th class="hidden-xs">Martes</th>
+							<th>Miércoles</th>
+							<th class="hidden-xs">Jueves</th>
+							<th>Viernes</th>
+							<th>Sábado</th>
+							<th>Domingo</th>
+						</tr>
+					</thead>
+					<tbody>
+						<tr>
+							<td>
+								Suplemento <br>
+								"Certera Edad"
+							</td>
+							<td class="hidden-xs"></td>
+							<td>
+								Suplemento <br>
+								"Lazos"
+							</td>
+							<td class="hidden-xs"></td>
+							<td>
+								Suplemento <br>
+								"Mis Mascotas"
+							</td>
+							<td>
+								Verbigracia <br>
+								Suplemento "Bienestar"
+							</td>
+							<td>
+								4 cuerpos de noticias <br>
+								Revista Estampas <br>
+								Guía Turística
+							</td>
+						</tr>
+					</tbody>
+				</table>
+				<table class="plan">
+					<tbody>
+						<tr>
+							<td>
+								<div class="title">
+									Mensual
+								</div>
+								<div class="price">
+									Bs. 3.200
+								</div>
+								<div class="discount">
+									35%
+								</div>
+							</td>
+							<td>
+								<div class="title">
+									52 semanas
+								</div>
+								<div class="price">
+									Bs. 41.600
+								</div>
+								<div class="discount">
+									30%
+								</div>
+							</td>
+							<td>
+								<div class="title">
+									26 semanas
+								</div>
+								<div class="price">
+									Bs. 20.800
+								</div>
+								<div class="discount">
+									25%
+								</div>
+							</td>
+							<td>
+								<div class="title">
+									13 semanas
+								</div>
+								<div class="price">
+									Bs. 10.400
+								</div>
+								<div class="discount">
+									20%
+								</div>
+							</td>
+							<td>
+								<div class="legend">
+									<div class="icon">
+										<img src="img/icon-calendar-2.png" alt="">
+									</div>
+									Frecuencia/domiciliado
+								</div>
+								<div class="legend">
+									<div class="icon">
+										<img src="img/icon-dollar.png" alt="">
+									</div>
+									Tarifa
+								</div>
+								<div class="legend">
+									<div class="icon">
+										<img src="img/icon-tag.png" alt="">
+									</div>
+									Descuento
+								</div>
+							</td>
+						</tr>
+					</tbody>
+				</table>
+			</div>
+			<div class="panel">
+				<div class="panel-heading">
+					<div class="title">
+						Plan Ejecutivo
+					</div>
+					<div class="content">
+						<p>
+							La edición semanal consta de dos cuerpos con información del acontecer nacional e internacional. Con un destacado panel de comentaristas y colaboradores analizando los temas de
+						</p>
+					</div>
+					<div class="icon">
+						<img src="img/icon-briefcase.png" alt="">
+					</div>
+				</div>
+				<table class="table">
+					<thead>
+						<tr>
+							<th>Lunes</th>
+							<th class="hidden-xs">Martes</th>
+							<th>Miércoles</th>
+							<th class="hidden-xs">Jueves</th>
+							<th class="last">Viernes</th>
+							<th class="hidden-xs">Sábado</th>
+							<th class="hidden-xs">Domingo</th>
+						</tr>
+					</thead>
+					<tbody>
+						<tr>
+							<td>
+								Suplemento <br>
+								"Certera Edad"
+							</td>
+							<td class="hidden-xs"></td>
+							<td>
+								Suplemento <br>
+								"Lazos"
+							</td>
+							<td class="hidden-xs"></td>
+							<td class="last">
+								Suplemento <br>
+								"Mis Mascotas"
+							</td>
+							<td class="hidden-xs"></td>
+							<td class="hidden-xs"></td>
+						</tr>
+					</tbody>
+				</table>
+				<table class="plan">
+					<tbody>
+						<tr>
+							<td>
+								<div class="title">
+									Mensual
+								</div>
+								<div class="price">
+									Bs. 2.000
+								</div>
+								<div class="discount">
+									30%
+								</div>
+							</td>
+							<td>
+								<div class="title">
+									52 semanas
+								</div>
+								<div class="price">
+									Bs. 26.000
+								</div>
+								<div class="discount">
+									25%
+								</div>
+							</td>
+							<td>
+								<div class="title">
+									26 semanas
+								</div>
+								<div class="price">
+									Bs. 12.000
+								</div>
+								<div class="discount">
+									20%
+								</div>
+							</td>
+							<td>
+								<div class="title">
+									13 semanas
+								</div>
+								<div class="price">
+									Bs. 6.500
+								</div>
+								<div class="discount">
+									15%
+								</div>
+							</td>
+							<td>
+								<div class="legend">
+									<div class="icon">
+										<img src="img/icon-calendar-2.png" alt="">
+									</div>
+									Frecuencia/domiciliado
+								</div>
+								<div class="legend">
+									<div class="icon">
+										<img src="img/icon-dollar.png" alt="">
+									</div>
+									Tarifa
+								</div>
+								<div class="legend">
+									<div class="icon">
+										<img src="img/icon-tag.png" alt="">
+									</div>
+									Descuento
+								</div>
+							</td>
+						</tr>
+					</tbody>
+				</table>
+			</div>
+			<div class="panel">
+				<div class="panel-heading">
+					<div class="title">
+						Plan Ejecutivo Combinado
+					</div>
+					<div class="content">
+						<p>
+							Adicionalmente a los beneficios descritos en el plan ejecutivo, podrá disfrutar de uns suscripción a la versión digital del diario de acuerdo a la siguiente frecuencia:
+						</p>
+					</div>
+					<div class="icon">
+						<img src="img/icon-briefcase-favorite.png" alt="">
+					</div>
+				</div>
+				<table class="table">
+					<thead>
+						<tr>
+							<th class="hidden-xs">Lunes</th>
+							<th class="hidden-xs">Martes</th>
+							<th class="hidden-xs">Miércoles</th>
+							<th class="hidden-xs">Jueves</th>
+							<th class="hidden-xs">Viernes</th>
+							<th>Sábado</th>
+							<th>Domingo</th>
+						</tr>
+					</thead>
+					<tbody>
+						<tr>
+							<td class="hidden-xs"></td>
+							<td class="hidden-xs"></td>
+							<td class="hidden-xs"></td>
+							<td class="hidden-xs"></td>
+							<td class="hidden-xs"></td>
+							<td>
+								Versión Digital
+							</td>
+							<td>
+								Versión Digital
+							</td>
+						</tr>
+					</tbody>
+				</table>
+				<table class="plan">
+					<tbody>
+						<tr>
+							<td>
+								<div class="title">
+									Mensual
+								</div>
+								<div class="price">
+									Bs. 700
+								</div>
+							</td>
+							<td>
+								<div class="title">
+									52 semanas
+								</div>
+								<div class="price">
+									Bs. 8.400
+								</div>
+							</td>
+							<td>
+								<div class="title">
+									26 semanas
+								</div>
+								<div class="price">
+									Bs. 4.200
+								</div>
+							</td>
+							<td>
+								<div class="title">
+									13 semanas
+								</div>
+								<div class="price">
+									Bs. 2.100
+								</div>
+							</td>
+							<td>
+								<div class="legend">
+									<div class="icon">
+										<img src="img/icon-calendar-2.png" alt="">
+									</div>
+									Frecuencia/domiciliado
+								</div>
+								<div class="legend">
+									<div class="icon">
+										<img src="img/icon-dollar.png" alt="">
+									</div>
+									Tarifa
+								</div>
+							</td>
+						</tr>
+					</tbody>
+				</table>
+			</div>
+			<div class="panel">
+				<div class="panel-heading">
+					<div class="title">
+						Plan Fin de Semana
+					</div>
+					<div class="content">
+						<p>
+							Un compendio con la información más ligera para disfrutar durante los días de descanso y mantenerse actualizado sobre los acontecimientos más importantes, incorporando temáticas especializadas en materias de salud y
+						</p>
+					</div>
+					<div class="icon">
+						<img src="img/icon-calendar-marked.png" alt="">
+					</div>
+				</div>
+				<table class="table">
+					<thead>
+						<tr>
+							<th class="hidden-xs">Lunes</th>
+							<th class="hidden-xs">Martes</th>
+							<th class="hidden-xs">Miércoles</th>
+							<th class="hidden-xs">Jueves</th>
+							<th class="hidden-xs">Viernes</th>
+							<th>Sábado</th>
+							<th>Domingo</th>
+						</tr>
+					</thead>
+					<tbody>
+						<tr>
+							<td class="hidden-xs"></td>
+							<td class="hidden-xs"></td>
+							<td class="hidden-xs"></td>
+							<td class="hidden-xs"></td>
+							<td class="hidden-xs"></td>
+							<td>
+								Verbigracia <br>
+								Suplemento "Bienestar"
+							</td>
+							<td>
+								4 cuerpos de noticias <br>
+								Revista Estampas <br>
+								Guía Turística
+							</td>
+						</tr>
+					</tbody>
+				</table>
+				<table class="plan">
+					<tbody>
+						<tr>
+							<td>
+								<div class="title">
+									Mensual
+								</div>
+								<div class="price">
+									Bs. 1.200
+								</div>
+								<div class="discount">
+									25%
+								</div>
+							</td>
+							<td>
+								<div class="title">
+									52 semanas
+								</div>
+								<div class="price">
+									Bs. 15.600
+								</div>
+								<div class="discount">
+									20%
+								</div>
+							</td>
+							<td>
+								<div class="title">
+									26 semanas
+								</div>
+								<div class="price">
+									Bs. 7.800
+								</div>
+								<div class="discount">
+									15%
+								</div>
+							</td>
+							<td>
+								<div class="title">
+									13 semanas
+								</div>
+								<div class="price">
+									Bs. 3.900
+								</div>
+								<div class="discount">
+									10%
+								</div>
+							</td>
+							<td>
+								<div class="legend">
+									<div class="icon">
+										<img src="img/icon-calendar-2.png" alt="">
+									</div>
+									Frecuencia/domiciliado
+								</div>
+								<div class="legend">
+									<div class="icon">
+										<img src="img/icon-dollar.png" alt="">
+									</div>
+									Tarifa
+								</div>
+								<div class="legend">
+									<div class="icon">
+										<img src="img/icon-tag.png" alt="">
+									</div>
+									Descuento
+								</div>
+							</td>
+						</tr>
+					</tbody>
+				</table>
+			</div>
+			<div class="panel">
+				<div class="panel-heading">
+					<div class="title">
+						Plan Fin de Semana Combinado
+					</div>
+					<div class="icon">
+						<img src="img/icon-calendar-favorite.png" alt="">
+					</div>
+				</div>
+				<table class="table">
+					<thead>
+						<tr>
+							<th>Lunes</th>
+							<th>Martes</th>
+							<th>Miércoles</th>
+							<th>Jueves</th>
+							<th class="last">Viernes</th>
+							<th class="hidden-xs">Sábado</th>
+							<th class="hidden-xs">Domingo</th>
+						</tr>
+					</thead>
+					<tbody>
+						<tr>
+							<td>
+								Versión Digital
+							</td>
+							<td>
+								Versión Digital
+							</td>
+							<td>
+								Versión Digital
+							</td>
+							<td>
+								Versión Digital
+							</td>
+							<td class="last">
+								Versión Digital
+							</td>
+							<td class="hidden-xs"></td>
+							<td class="hidden-xs"></td>
+						</tr>
+					</tbody>
+				</table>
+				<table class="plan">
+					<tbody>
+						<tr>
+							<td>
+								<div class="title">
+									Mensual
+								</div>
+								<div class="price">
+									Bs. 400
+								</div>
+							</td>
+							<td>
+								<div class="title">
+									52 semanas
+								</div>
+								<div class="price">
+									Bs. 4.800
+								</div>
+							</td>
+							<td>
+								<div class="title">
+									26 semanas
+								</div>
+								<div class="price">
+									Bs. 2.400
+								</div>
+							</td>
+							<td>
+								<div class="title">
+									13 semanas
+								</div>
+								<div class="price">
+									Bs. 1.200
+								</div>
+							</td>
+							<td>
+								<div class="legend">
+									<div class="icon">
+										<img src="img/icon-calendar-2.png" alt="">
+									</div>
+									Frecuencia/domiciliado
+								</div>
+								<div class="legend">
+									<div class="icon">
+										<img src="img/icon-dollar.png" alt="">
+									</div>
+									Tarifa
+								</div>
+							</td>
+						</tr>
+					</tbody>
+				</table>
+			</div>
+			<div class="row">
+				<div class="col-sm-6">
+					<div class="text-title">
+						CONDICIONES
+					</div>
+				</div>
+			</div>
+			<div class="row">
+				<div class="col-sm-6">
+					<ul class="conditions">
+						<li>
+							Domiciliado a su tarjeta de crédito
+						</li>
+						<li>
+							Servicio de entrega puerta a puerta exclusivamente para algunas zonas del Este y Sureste de Caracas. (Ver listado de urbanizaciones).
+						</li>
+					</ul>
+				</div>
+				<div class="col-sm-6">
+					<div class="info-banner">
+						<div class="icon">
+							<img src="img/icon-chat.png" alt="">
+						</div>
+						<p>
+							<small>
+								Para suscribirse a cualquiera de nuestros planes puede llamar al siguiente número, donde gustosmente lo atenderemos:
+							</small>
+							0501-505.20.20
+							<small>
+								Lunes a viernes de 8:30 AM - 5:30 PM
+							</small>
+						</p>
+					</div>
+				</div>
+			</div>
+			<hr>
+			<h3>
+				<strong>
+					Productos editoriales
+				</strong>
+			</h3>
+			<div class="product">
+				<div class="row">
+					<div class="col-sm-3">
+						<div class="product-pic">
+							<img src="img/product-1.png" alt="">
+						</div>
+					</div>
+					<div class="col-sm-9">
+						<h4>
+							<strong>
+								El Universal
+							</strong>
+						</h4>
+						<p>
+							Este diario de circulación nacional representa la mejor oferta informativa en medios de comunicación; contiene secciones de gran interés para la colectividad donde encontrarás noticias de Venezuela y el mundo. Información y actualidad sobre: economía, deportes, entretenimiento, sucesos, política y más.
+						</p>
+					</div>
+				</div>
+			</div>
+			<div class="product">
+				<div class="row">
+					<div class="col-sm-3">
+						<div class="product-pic">
+							<img src="img/product-2.png" alt="">
+						</div>
+					</div>
+					<div class="col-sm-9">
+						<h4>
+							<strong>
+								Estampas
+							</strong>
+						</h4>
+						<p>
+							Estampas es una marca experta en contenidos para la mujer. Nació hace 62 años como una revista encartada de forma gratuita del Diario El Universal. Ha evolucionado adaptándose a los patrones de consumo y tendencias mundiales, convirtiéndose en una marca multiplataforma.
+						</p>
+						<p>
+							Estampas se encuentra en papel, web y móvil siendo la referencia en cuanto a contenidos útiles y entretenidos, mostrándose interesante y funcional para la mujer en su día a día. <br>
+							El Universal tiene acuerdos con los diarios venezolanos La Verdad de Zulia y El Informador de Lara para distribuir ediciones especiales de su revista dominical Estampas. <br>
+							agregados como suplementos especiales.
+						</p>
+					</div>
+				</div>
+			</div>
+			<div class="product">
+				<div class="row">
+					<div class="col-sm-3">
+						<div class="product-pic">
+							<img src="img/product-3.png" alt="">
+						</div>
+					</div>
+					<div class="col-sm-9">
+						<h4>
+							<strong>
+								Guía Turística
+							</strong>
+						</h4>
+						<p>
+							Es el suplemento estrella del diario que circula los días domingos, una guía práctica para turístas o viajeros que proporciona detalles sobre una localidad o área geográfica, un destino paradisiaco o un itinerario en particular tanto en Venezuela como en el resto del mundo.
+						</p>
+					</div>
+				</div>
+			</div>
+			<div class="product">
+				<div class="row">
+					<div class="col-sm-3">
+						<div class="product-pic">
+							<img src="img/product-4.png" alt="">
+						</div>
+					</div>
+					<div class="col-sm-9">
+						<h4>
+							<strong>
+								Suplementos
+							</strong>
+						</h4>
+						<p>
+							Son publicaciones especializadas
+						</p>
+						<h5>
+							<strong>
+								Bienestar
+							</strong>
+						</h5>
+						<p>
+							El concepto editorial versa sobre información médica con énfasis en lograr y mantener el bienestar integral de los lectores y sus familias. Busca ofrecer información útil para mantener saludable el cuerpo y la mente de los venezolanos.
+						</p>
+						<h5>
+							<strong>
+								Lazos
+							</strong>
+						</h5>
+						<p>
+							El objetivo principal de este suplemento es divulgar información de interes para la familia venezolana, con énfasis en salud, educación, entretenimiento. Desarrolla temas relevantes con rigurosidad periodística en un lenguaje ameno e inteligible para el lector. Con un diseño ágil, llamativo e innovador. Esta publicación se propone crear lazos en la familia Venezolana y con El Universal.
+						</p>
+						<h5>
+							<strong>
+								Certera Edad
+							</strong>
+						</h5>
+						<p>
+							Resalta temas de interes que propicien un espacio para el encuentro, el mantenimiento y la información de los adultos mayores y de esta manera contribuir con una mejor calidad de vida. Temas de salud, nutrición, medicina alternativa, investigaciones especializadas, rutinas de movilidad, referencias bibliográficas, cartelera de eventos y actividades recreativas, entrevista a personas o instituciones destacadas en áreas que aporten beneficios sociales a esta población.
+						</p>
+					</div>
+				</div>
+			</div>
+		</section>
+		
+		<footer ng-include="'includes/footer.html'"></footer>
+		<script src="js/jquery.min.js"></script>
+		<script src="js/bootstrap.min.js"></script>
+		<script src="js/main.js"></script>
+		<script type="text/javascript" src="js/angular.min.js"></script>
+		<!--Controllers-->
+		<script type="text/javascript" src="controllers/testController.js"></script>
+		<!--Services-->
+		<script type="text/javascript" src="services/testService.js"></script>
+	</body>
+	</html>

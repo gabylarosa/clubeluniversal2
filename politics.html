@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8" />
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>El Universal</title>
+	<link rel="stylesheet" type="text/css" href="css/bootstrap.min.css" />
+	<link rel="stylesheet" type="text/css" href="css/style.css" />
+	<script src="https://www.google.com/recaptcha/api.js" async defer></script>
+</head>
+<body ng-app='myApp' ng-controller="testController">
+	<header ng-include="'includes/header.html'"></header>
+	<ul class="menu" ng-include="'includes/menuDesktop.html'"></ul>
+	<div class="container">
+		<ol class="breadcrumb">
+			<li><a href="#">Inicio</a></li>
+			<li class="active">Contáctos</li>
+		</ol>
+		<section class="section-banner">
+			<img src="img/banner-politics.png" alt="">
+		</section>
+		<section class="contact">
+			<h4>
+				<strong>
+					Una cookie es una pequeña información generada por el sitio web que visitas y es almacenada en tu dispositivo con diferentes funciones
+				</strong>
+			</h4>
+			<p>
+				Las cookies permiten a la página Web, entre otras cosas, almacenar y recuperar información sobre tu número de visitas, los hábitos de navegación del usuario o de su equipo y, dependiendo de la información que contengan y de la forma en que utilice su equipo, pueden utilizarse para reconocer al usuario. 
+			</p>
+			<p>
+				<strong>ClubEluniversal.com</strong> utiliza cookies propias y de terceros únicamente con la finalidad de facilitar un acceso más rápido a nuestros servicios, además de personalizar los mismos, ofreciendo a cada usuario información que puede ser de su interés, y así mejorar la experiencia en el sitio web, sin ningún tipo de objeto publicitario o similar, a través de las cookies no se recoge ningún tipo de dato personal.
+			</p>
+			<p>
+				<strong>- Cookies técnicas</strong> necesarias o convenientes para la prestación de determinados servicios. Si se desactivan estas cookies, podrá no recibir correctamente los contenidos del sitio web. 
+			</p>
+			<p>
+				<strong>- Cookies de personalización</strong> son aquellas utilizadas por Club El Universal que permiten al usuario acceder al sitio con algunas características de carácter general predefinidas en función de una serie de criterios en su terminal como, por ejemplo, el idioma, el tipo de navegador, la configuración regional desde donde accede, etc.
+			</p>
+			<p>
+				<strong>- Cookies analíticas</strong>, para el seguimiento y análisis estadístico del comportamiento del conjunto de los usuarios (Google Analytics y similares que podrán añadirse a este listado en caso de que varíen en relación con los actuales). Si se desactivan estas cookies, el sitio web podrá seguir funcionando, sin perjuicio de que la información captada por estas cookies sobre el uso de nuestra web y sobre su contenido permite mejorar nuestros servicios. Las condiciones de utilización de estas cookies y la información recopilada se regulan por la política de privacidad de la plataforma correspondiente.
+			</p>
+			<p>
+				<strong>- Cookies de redes sociales externas</strong>, que se utilizan para que los usuarios puedan interactuar con el contenido de diferentes plataformas sociales (Facebook, YouTube, Twitter, LinkedIn, Addthis etc.) y que se generan únicamente para los usuarios de dichas redes sociales. Las condiciones de utilización de estas cookies y la información recopilada se regulan por la política de privacidad de la plataforma social correspondiente.
+			</p>
+			<p>
+				Las Cookies, en función de su permanencia, pueden dividirse en Cookies de sesión (temporales) o permanentes. Las primeras expiran cuando el Usuario cierra el navegador. Las segundas expiran en función cuando se cumpla el objetivo para el que sirven (por ejemplo, para que el Usuario se mantenga identificado en los Servicios de Club El Universal) o bien cuando se borran manualmente.
+			</p>
+			<h5>
+				<strong>
+					Clasificándose las Cookies de la siguiente forma: 
+				</strong>
+			</h5>
+			<p>
+				<strong>COOKIES DE GEO-LOCALIZACIÓN:</strong> Estas Cookies son utilizadas para averiguar en qué país se encuentra cuando se solicita un Servicio. Esta Cookie es totalmente anónima, y sólo se utiliza para ayudar a orientar el contenido a su ubicación.
+			</p>
+			<p>
+				<strong>COOKIES DE REGISTRO:</strong> Las Cookies de registro se generan una vez que el Usuario se ha registrado o posteriormente ha abierto su sesión, y se utilizan para identificarlo en los Servicios con los siguientes objetivos: 
+			</p>
+			<p>
+				- Mantener al Usuario identificado de forma que, si cierra un Servicio, el navegador o el ordenador en otro momento u otro día vuelve a entrar en dicho Servicio, seguirá identificado, facilitando así su navegación sin tener que volver a identificarse. Esta funcionalidad se puede suprimir si el Usuario pulsa la funcionalidad cerrar sesión, de forma que esta Cookie se elimina y la próxima vez que entre en el Servicio el Usuario tendrá que iniciar sesión para estar identificado.
+			</p>
+			<p>
+				- Comprobar si el Usuario está autorizado para acceder a ciertos Servicios, por ejemplo, para participar en un concurso.
+			</p>
+			<p>
+				Recuerda que puedes permitir, bloquear o eliminar estas cookies cuando quieras a través de las opciones de configuración de tu dispositivo o terminal, así como de tu navegador de internet, en caso de bloquear el uso de cookies en su navegador es posible que algunos servicios o funcionalidades de la página Web no estén disponibles.
+			</p>
+			<p>
+				- Para Internet Explorer, <a href="#" class="text-link">clic aquí</a> <br>
+				- Para Mozilla Firefox, <a href="#" class="text-link">clic aquí</a> <br>
+				- Para Google Chrome, <a href="#" class="text-link">clic aquí</a> <br>
+				- Para Safari, <a href="#" class="text-link">clic aquí</a> <br>
+			</p>
+		</section>
+	</div>
+	<footer ng-include="'includes/footer.html'"></footer>
+
+	<script src="js/jquery.min.js"></script>
+	<script src="js/bootstrap.min.js"></script>
+	<script src="js/main.js"></script>
+	<script type="text/javascript" src="js/angular.min.js"></script>
+	<!--Controllers-->
+	<script type="text/javascript" src="controllers/testController.js"></script>
+	<!--Services-->
+	<script type="text/javascript" src="services/testService.js"></script>
+</body>
+</html>

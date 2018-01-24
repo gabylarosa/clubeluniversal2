@@ -1,0 +1,1386 @@
+[
+  {
+    "userId": 1,
+    "categoria": "icon-cat-turism.png",
+    "nomcategoria": "Turismo",
+    "oferta": "TURISMO - Promoción 2x1 en todas las pastas de la casa más un acompañante por persona",
+    "nombrealiado": "Avila Burger",
+    "datos": {
+        "ciudad": "Los Palos Grandes, Caracas",
+        "direccion": "2da Av entre 4ta y 5ta transversal, CC Las Cupulas, Los Palos Grandes, Caracas",
+        "telefono": "0212-2851960",
+        "pagina": "www.chiru.com.ve"
+    },
+    "precioantes": "49.000",
+    "precioahora": "42.000",
+    "premium": "0",
+    "fotos":
+        [
+            "item-gastronomy-1.png",
+            "item-gastronomy-2.png",
+            "item-gastronomy-3.png",
+            "item-gastronomy-4.png"
+    ],
+    "detalles":
+        [
+            "Paga Bs.46.900 y consume Bs. 10.000 más 2 tintos de verano (de lunes a domingos) en Chirú.",
+            "Con la compra del cupón podrás disfrutar de 2 tintos de verano de lunes a domingos"
+    ],
+    "condiciones":
+        [
+            "Válido desde el 25 de julio hasta el 25 de agosto de 2016.",
+            "Compra tu cupón y comunícate con el establecimiento para hacer tu reserva.",
+            "Horario: Lunes, Martes, Miercoles de 12:00pm a 130:00pm / Jueves y viernes de 12:00pm a 11:30pm / Sábados de 1:00pm a 11:30pm y Domingos de 1:00pm a 10:00pm.",
+            "Presenta el cupón al llegar.",
+            "No es válido para 1 persona.",
+            "No es válido para personas menores de 12 años.",
+            "El menú esta sujetoa cambios.",
+            "El 10% no está incluido en el cupón.",
+            "El monto de la propina lo decide el usuario del cupón."
+
+    ]
+    
+},
+{
+    "userId": 2,
+    "categoria": "icon-cat-entertaiment.png",
+    "nomcategoria": "Entretenimiento",
+    "oferta": "ENTRETENIMIENTO - Parrila Full para dos o más personas en nuestra gran terraza",
+    "nombrealiado": "Avila Burger",
+    "datos": {
+        "ciudad": "Los Palos Grandes, Caracas",
+        "direccion": "2da Av entre 4ta y 5ta transversal, CC Las Cupulas, Los Palos Grandes, Caracas",
+        "telefono": "0212-2851960",
+        "pagina": "www.chiru.com.ve"
+    },
+    "precioantes": "49.000",
+    "precioahora": "42.000",
+    "premium": "1",
+    "fotos":
+        [
+            "item-gastronomy-5.png",
+            "item-gastronomy-6.png",
+            "item-gastronomy-7.png"
+    ],
+    "detalles":
+        [
+            "Paga Bs.46.900 y consume Bs. 10.000 más 2 tintos de verano (de lunes a domingos) en Chirú.",
+            "Con la compra del cupón podrás disfrutar de 2 tintos de verano de lunes a domingos"
+    ],
+    "condiciones":
+        [
+            "Válido desde el 25 de julio hasta el 25 de agosto de 2016.",
+            "Compra tu cupón y comunícate con el establecimiento para hacer tu reserva.",
+            "Horario: Lunes, Martes, Miercoles de 12:00pm a 130:00pm / Jueves y viernes de 12:00pm a 11:30pm / Sábados de 1:00pm a 11:30pm y Domingos de 1:00pm a 10:00pm.",
+            "Presenta el cupón al llegar.",
+            "No es válido para 1 persona.",
+            "No es válido para personas menores de 12 años.",
+            "El menú esta sujetoa cambios.",
+            "El 10% no está incluido en el cupón.",
+            "El monto de la propina lo decide el usuario del cupón."
+
+    ]
+    
+},
+{
+    "userId": 3,
+    "categoria": "icon-cat-other.png",
+    "nomcategoria": "Otro",
+    "oferta": "OTRO - Promoción 2x1 en todas las pastas de la casa más un acompañante por persona",
+    "nombrealiado": "Avila Burger",
+    "datos": {
+        "ciudad": "Los Palos Grandes, Caracas",
+        "direccion": "2da Av entre 4ta y 5ta transversal, CC Las Cupulas, Los Palos Grandes, Caracas",
+        "telefono": "0212-2851960",
+        "pagina": "www.chiru.com.ve"
+    },
+    "precioantes": "49.000",
+    "precioahora": "42.000",
+    "premium": "0",
+    "fotos":
+        [
+            "item-gastronomy-1.png",
+            "item-gastronomy-2.png",
+            "item-gastronomy-3.png",
+            "item-gastronomy-4.png"
+    ],
+    "detalles":
+        [
+            "Paga Bs.46.900 y consume Bs. 10.000 más 2 tintos de verano (de lunes a domingos) en Chirú.",
+            "Con la compra del cupón podrás disfrutar de 2 tintos de verano de lunes a domingos"
+    ],
+    "condiciones":
+        [
+            "Válido desde el 25 de julio hasta el 25 de agosto de 2016.",
+            "Compra tu cupón y comunícate con el establecimiento para hacer tu reserva.",
+            "Horario: Lunes, Martes, Miercoles de 12:00pm a 130:00pm / Jueves y viernes de 12:00pm a 11:30pm / Sábados de 1:00pm a 11:30pm y Domingos de 1:00pm a 10:00pm.",
+            "Presenta el cupón al llegar.",
+            "No es válido para 1 persona.",
+            "No es válido para personas menores de 12 años.",
+            "El menú esta sujetoa cambios.",
+            "El 10% no está incluido en el cupón.",
+            "El monto de la propina lo decide el usuario del cupón."
+
+    ]
+    
+},
+{
+    "userId": 4,
+    "categoria": "icon-cat-paint.png",
+    "nomcategoria": "Hogar",
+    "oferta": "HOGAR - Promoción 2x1 en todas las pastas de la casa más un acompañante por persona",
+    "nombrealiado": "Avila Burger",
+    "datos": {
+        "ciudad": "Los Palos Grandes, Caracas",
+        "direccion": "2da Av entre 4ta y 5ta transversal, CC Las Cupulas, Los Palos Grandes, Caracas",
+        "telefono": "0212-2851960",
+        "pagina": "www.chiru.com.ve"
+    },
+    "precioantes": "49.000",
+    "precioahora": "42.000",
+    "premium": "0",
+    "fotos":
+        [
+            "item-gastronomy-5.png",
+            "item-gastronomy-6.png",
+            "item-gastronomy-7.png"
+    ],
+    "detalles":
+        [
+            "Paga Bs.46.900 y consume Bs. 10.000 más 2 tintos de verano (de lunes a domingos) en Chirú.",
+            "Con la compra del cupón podrás disfrutar de 2 tintos de verano de lunes a domingos"
+    ],
+    "condiciones":
+        [
+            "Válido desde el 25 de julio hasta el 25 de agosto de 2016.",
+            "Compra tu cupón y comunícate con el establecimiento para hacer tu reserva.",
+            "Horario: Lunes, Martes, Miercoles de 12:00pm a 130:00pm / Jueves y viernes de 12:00pm a 11:30pm / Sábados de 1:00pm a 11:30pm y Domingos de 1:00pm a 10:00pm.",
+            "Presenta el cupón al llegar.",
+            "No es válido para 1 persona.",
+            "No es válido para personas menores de 12 años.",
+            "El menú esta sujetoa cambios.",
+            "El 10% no está incluido en el cupón.",
+            "El monto de la propina lo decide el usuario del cupón."
+
+    ]
+    
+},
+{
+    "userId": 6,
+    "categoria": "icon-cat-paint.png",
+    "nomcategoria": "Hogar",
+    "oferta": "HOGAR - 6Promoción 2x1 en todas las pastas de la casa más un acompañante por persona",
+    "nombrealiado": "Avila Burger",
+    "datos": {
+        "ciudad": "Los Palos Grandes, Caracas",
+        "direccion": "2da Av entre 4ta y 5ta transversal, CC Las Cupulas, Los Palos Grandes, Caracas",
+        "telefono": "0212-2851960",
+        "pagina": "www.chiru.com.ve"
+    },
+    "precioantes": "49.000",
+    "precioahora": "42.000",
+    "premium": "0",
+    "fotos":
+        [
+            "item-gastronomy-5.png",
+            "item-gastronomy-6.png",
+            "item-gastronomy-7.png"
+    ],
+    "detalles":
+        [
+            "Paga Bs.46.900 y consume Bs. 10.000 más 2 tintos de verano (de lunes a domingos) en Chirú.",
+            "Con la compra del cupón podrás disfrutar de 2 tintos de verano de lunes a domingos"
+    ],
+    "condiciones":
+        [
+            "Válido desde el 25 de julio hasta el 25 de agosto de 2016.",
+            "Compra tu cupón y comunícate con el establecimiento para hacer tu reserva.",
+            "Horario: Lunes, Martes, Miercoles de 12:00pm a 130:00pm / Jueves y viernes de 12:00pm a 11:30pm / Sábados de 1:00pm a 11:30pm y Domingos de 1:00pm a 10:00pm.",
+            "Presenta el cupón al llegar.",
+            "No es válido para 1 persona.",
+            "No es válido para personas menores de 12 años.",
+            "El menú esta sujetoa cambios.",
+            "El 10% no está incluido en el cupón.",
+            "El monto de la propina lo decide el usuario del cupón."
+
+    ]
+    
+},
+{
+    "userId": 7,
+    "categoria": "icon-cat-gastronomy.png",
+    "nomcategoria": "Gastronomía",
+    "oferta": "GASTRONOMIA - 7% de descuento en todos los pescados de la casa. ",
+    "nombrealiado": "La Castañuela",
+    "datos": {
+        "ciudad": "Las Mercedes, Caracas",
+        "direccion": "2da Av entre 4ta y 5ta transversal, CC Las Cupulas, Los Palos Grandes, Caracas",
+        "telefono": "0212-2851960",
+        "pagina": "www.chiru.com.ve"
+    },
+    "precioantes": "49.000",
+    "precioahora": "42.000",
+    "premium": "0",
+    "fotos":
+        [
+            "item-gastronomy-1.png",
+            "item-gastronomy-2.png",
+            "item-gastronomy-3.png",
+            "item-gastronomy-4.png"
+    ],
+    "detalles":
+        [
+            "Paga Bs.46.900 y consume Bs. 10.000 más 2 tintos de verano (de lunes a domingos) en Chirú.",
+            "Con la compra del cupón podrás disfrutar de 2 tintos de verano de lunes a domingos"
+    ],
+    "condiciones":
+        [
+            "Válido desde el 25 de julio hasta el 25 de agosto de 2016.",
+            "Compra tu cupón y comunícate con el establecimiento para hacer tu reserva.",
+            "Horario: Lunes, Martes, Miercoles de 12:00pm a 130:00pm / Jueves y viernes de 12:00pm a 11:30pm / Sábados de 1:00pm a 11:30pm y Domingos de 1:00pm a 10:00pm.",
+            "Presenta el cupón al llegar.",
+            "No es válido para 1 persona.",
+            "No es válido para personas menores de 12 años.",
+            "El menú esta sujetoa cambios.",
+            "El 10% no está incluido en el cupón.",
+            "El monto de la propina lo decide el usuario del cupón."
+
+    ]
+    
+},
+{
+    "userId": 8,
+    "categoria": "icon-cat-gastronomy.png",
+    "nomcategoria": "Gastronomía",
+    "oferta": "GASTRONOMIA - 8% de descuento en todos los pescados de la casa. ",
+    "nombrealiado": "La Castañuela",
+    "datos": {
+        "ciudad": "Las Mercedes, Caracas",
+        "direccion": "2da Av entre 4ta y 5ta transversal, CC Las Cupulas, Los Palos Grandes, Caracas",
+        "telefono": "0212-2851960",
+        "pagina": "www.chiru.com.ve"
+    },
+    "precioantes": "49.000",
+    "precioahora": "42.000",
+    "premium": "0",
+    "fotos":
+        [
+            "item-gastronomy-1.png",
+            "item-gastronomy-2.png",
+            "item-gastronomy-3.png",
+            "item-gastronomy-4.png"
+    ],
+    "detalles":
+        [
+            "Paga Bs.46.900 y consume Bs. 10.000 más 2 tintos de verano (de lunes a domingos) en Chirú.",
+            "Con la compra del cupón podrás disfrutar de 2 tintos de verano de lunes a domingos"
+    ],
+    "condiciones":
+        [
+            "Válido desde el 25 de julio hasta el 25 de agosto de 2016.",
+            "Compra tu cupón y comunícate con el establecimiento para hacer tu reserva.",
+            "Horario: Lunes, Martes, Miercoles de 12:00pm a 130:00pm / Jueves y viernes de 12:00pm a 11:30pm / Sábados de 1:00pm a 11:30pm y Domingos de 1:00pm a 10:00pm.",
+            "Presenta el cupón al llegar.",
+            "No es válido para 1 persona.",
+            "No es válido para personas menores de 12 años.",
+            "El menú esta sujetoa cambios.",
+            "El 10% no está incluido en el cupón.",
+            "El monto de la propina lo decide el usuario del cupón."
+
+    ]
+    
+},
+{
+    "userId": 9,
+    "categoria": "icon-cat-gastronomy.png",
+    "nomcategoria": "Gastronomía",
+    "oferta": "GASTRONOMIA - 9% de descuento en todos los pescados de la casa. ",
+    "nombrealiado": "La Castañuela",
+    "datos": {
+        "ciudad": "Las Mercedes, Caracas",
+        "direccion": "2da Av entre 4ta y 5ta transversal, CC Las Cupulas, Los Palos Grandes, Caracas",
+        "telefono": "0212-2851960",
+        "pagina": "www.chiru.com.ve"
+    },
+    "precioantes": "49.000",
+    "precioahora": "42.000",
+    "premium": "0",
+    "fotos":
+        [
+            "item-gastronomy-1.png",
+            "item-gastronomy-2.png",
+            "item-gastronomy-3.png",
+            "item-gastronomy-4.png"
+    ],
+    "detalles":
+        [
+            "Paga Bs.46.900 y consume Bs. 10.000 más 2 tintos de verano (de lunes a domingos) en Chirú.",
+            "Con la compra del cupón podrás disfrutar de 2 tintos de verano de lunes a domingos"
+    ],
+    "condiciones":
+        [
+            "Válido desde el 25 de julio hasta el 25 de agosto de 2016.",
+            "Compra tu cupón y comunícate con el establecimiento para hacer tu reserva.",
+            "Horario: Lunes, Martes, Miercoles de 12:00pm a 130:00pm / Jueves y viernes de 12:00pm a 11:30pm / Sábados de 1:00pm a 11:30pm y Domingos de 1:00pm a 10:00pm.",
+            "Presenta el cupón al llegar.",
+            "No es válido para 1 persona.",
+            "No es válido para personas menores de 12 años.",
+            "El menú esta sujetoa cambios.",
+            "El 10% no está incluido en el cupón.",
+            "El monto de la propina lo decide el usuario del cupón."
+
+    ]
+    
+},
+{
+    "userId": 10,
+    "categoria": "icon-cat-gastronomy.png",
+    "nomcategoria": "Gastronomía",
+    "oferta": "GASTRONOMIA - 10% de descuento en todos los pescados de la casa. ",
+    "nombrealiado": "La Castañuela",
+    "datos": {
+        "ciudad": "Las Mercedes, Caracas",
+        "direccion": "2da Av entre 4ta y 5ta transversal, CC Las Cupulas, Los Palos Grandes, Caracas",
+        "telefono": "0212-2851960",
+        "pagina": "www.chiru.com.ve"
+    },
+    "precioantes": "49.000",
+    "precioahora": "42.000",
+    "premium": "0",
+    "fotos":
+        [
+            "item-gastronomy-1.png",
+            "item-gastronomy-2.png",
+            "item-gastronomy-3.png",
+            "item-gastronomy-4.png"
+    ],
+    "detalles":
+        [
+            "Paga Bs.46.900 y consume Bs. 10.000 más 2 tintos de verano (de lunes a domingos) en Chirú.",
+            "Con la compra del cupón podrás disfrutar de 2 tintos de verano de lunes a domingos"
+    ],
+    "condiciones":
+        [
+            "Válido desde el 25 de julio hasta el 25 de agosto de 2016.",
+            "Compra tu cupón y comunícate con el establecimiento para hacer tu reserva.",
+            "Horario: Lunes, Martes, Miercoles de 12:00pm a 130:00pm / Jueves y viernes de 12:00pm a 11:30pm / Sábados de 1:00pm a 11:30pm y Domingos de 1:00pm a 10:00pm.",
+            "Presenta el cupón al llegar.",
+            "No es válido para 1 persona.",
+            "No es válido para personas menores de 12 años.",
+            "El menú esta sujetoa cambios.",
+            "El 10% no está incluido en el cupón.",
+            "El monto de la propina lo decide el usuario del cupón."
+
+    ]
+    
+},
+{
+    "userId": 11,
+    "categoria": "icon-cat-gastronomy.png",
+    "nomcategoria": "Gastronomía",
+    "oferta": "GASTRONOMIA - 11% de descuento en todos los pescados de la casa. ",
+    "nombrealiado": "La Castañuela",
+    "datos": {
+        "ciudad": "Las Mercedes, Caracas",
+        "direccion": "2da Av entre 4ta y 5ta transversal, CC Las Cupulas, Los Palos Grandes, Caracas",
+        "telefono": "0212-2851960",
+        "pagina": "www.chiru.com.ve"
+    },
+    "precioantes": "49.000",
+    "precioahora": "42.000",
+    "premium": "0",
+    "fotos":
+        [
+            "item-gastronomy-1.png",
+            "item-gastronomy-2.png",
+            "item-gastronomy-3.png",
+            "item-gastronomy-4.png"
+    ],
+    "detalles":
+        [
+            "Paga Bs.46.900 y consume Bs. 10.000 más 2 tintos de verano (de lunes a domingos) en Chirú.",
+            "Con la compra del cupón podrás disfrutar de 2 tintos de verano de lunes a domingos"
+    ],
+    "condiciones":
+        [
+            "Válido desde el 25 de julio hasta el 25 de agosto de 2016.",
+            "Compra tu cupón y comunícate con el establecimiento para hacer tu reserva.",
+            "Horario: Lunes, Martes, Miercoles de 12:00pm a 130:00pm / Jueves y viernes de 12:00pm a 11:30pm / Sábados de 1:00pm a 11:30pm y Domingos de 1:00pm a 10:00pm.",
+            "Presenta el cupón al llegar.",
+            "No es válido para 1 persona.",
+            "No es válido para personas menores de 12 años.",
+            "El menú esta sujetoa cambios.",
+            "El 10% no está incluido en el cupón.",
+            "El monto de la propina lo decide el usuario del cupón."
+
+    ]
+    
+},
+{
+    "userId": 12,
+    "categoria": "icon-cat-gastronomy.png",
+    "nomcategoria": "Gastronomía",
+    "oferta": "GASTRONOMIA - 12% de descuento en todos los pescados de la casa. ",
+    "nombrealiado": "La Castañuela",
+    "datos": {
+        "ciudad": "Las Mercedes, Caracas",
+        "direccion": "2da Av entre 4ta y 5ta transversal, CC Las Cupulas, Los Palos Grandes, Caracas",
+        "telefono": "0212-2851960",
+        "pagina": "www.chiru.com.ve"
+    },
+    "precioantes": "49.000",
+    "precioahora": "42.000",
+    "premium": "0",
+    "fotos":
+        [
+            "item-gastronomy-1.png",
+            "item-gastronomy-2.png",
+            "item-gastronomy-3.png",
+            "item-gastronomy-4.png"
+    ],
+    "detalles":
+        [
+            "Paga Bs.46.900 y consume Bs. 10.000 más 2 tintos de verano (de lunes a domingos) en Chirú.",
+            "Con la compra del cupón podrás disfrutar de 2 tintos de verano de lunes a domingos"
+    ],
+    "condiciones":
+        [
+            "Válido desde el 25 de julio hasta el 25 de agosto de 2016.",
+            "Compra tu cupón y comunícate con el establecimiento para hacer tu reserva.",
+            "Horario: Lunes, Martes, Miercoles de 12:00pm a 130:00pm / Jueves y viernes de 12:00pm a 11:30pm / Sábados de 1:00pm a 11:30pm y Domingos de 1:00pm a 10:00pm.",
+            "Presenta el cupón al llegar.",
+            "No es válido para 1 persona.",
+            "No es válido para personas menores de 12 años.",
+            "El menú esta sujetoa cambios.",
+            "El 10% no está incluido en el cupón.",
+            "El monto de la propina lo decide el usuario del cupón."
+
+    ]
+    
+},
+{
+    "userId": 13,
+    "categoria": "icon-cat-gastronomy.png",
+    "nomcategoria": "Gastronomía",
+    "oferta": "GASTRONOMIA - 13% de descuento en todos los pescados de la casa. ",
+    "nombrealiado": "La Castañuela",
+    "datos": {
+        "ciudad": "Las Mercedes, Caracas",
+        "direccion": "2da Av entre 4ta y 5ta transversal, CC Las Cupulas, Los Palos Grandes, Caracas",
+        "telefono": "0212-2851960",
+        "pagina": "www.chiru.com.ve"
+    },
+    "precioantes": "49.000",
+    "precioahora": "42.000",
+    "premium": "0",
+    "fotos":
+        [
+            "item-gastronomy-1.png",
+            "item-gastronomy-2.png",
+            "item-gastronomy-3.png",
+            "item-gastronomy-4.png"
+    ],
+    "detalles":
+        [
+            "Paga Bs.46.900 y consume Bs. 10.000 más 2 tintos de verano (de lunes a domingos) en Chirú.",
+            "Con la compra del cupón podrás disfrutar de 2 tintos de verano de lunes a domingos"
+    ],
+    "condiciones":
+        [
+            "Válido desde el 25 de julio hasta el 25 de agosto de 2016.",
+            "Compra tu cupón y comunícate con el establecimiento para hacer tu reserva.",
+            "Horario: Lunes, Martes, Miercoles de 12:00pm a 130:00pm / Jueves y viernes de 12:00pm a 11:30pm / Sábados de 1:00pm a 11:30pm y Domingos de 1:00pm a 10:00pm.",
+            "Presenta el cupón al llegar.",
+            "No es válido para 1 persona.",
+            "No es válido para personas menores de 12 años.",
+            "El menú esta sujetoa cambios.",
+            "El 10% no está incluido en el cupón.",
+            "El monto de la propina lo decide el usuario del cupón."
+
+    ]
+    
+},
+{
+    "userId": 14,
+    "categoria": "icon-cat-gastronomy.png",
+    "nomcategoria": "Gastronomía",
+    "oferta": "GASTRONOMIA - 14% de descuento en todos los pescados de la casa. ",
+    "nombrealiado": "La Castañuela",
+    "datos": {
+        "ciudad": "Las Mercedes, Caracas",
+        "direccion": "2da Av entre 4ta y 5ta transversal, CC Las Cupulas, Los Palos Grandes, Caracas",
+        "telefono": "0212-2851960",
+        "pagina": "www.chiru.com.ve"
+    },
+    "precioantes": "49.000",
+    "precioahora": "42.000",
+    "premium": "0",
+    "fotos":
+        [
+            "item-gastronomy-1.png",
+            "item-gastronomy-2.png",
+            "item-gastronomy-3.png",
+            "item-gastronomy-4.png"
+    ],
+    "detalles":
+        [
+            "Paga Bs.46.900 y consume Bs. 10.000 más 2 tintos de verano (de lunes a domingos) en Chirú.",
+            "Con la compra del cupón podrás disfrutar de 2 tintos de verano de lunes a domingos"
+    ],
+    "condiciones":
+        [
+            "Válido desde el 25 de julio hasta el 25 de agosto de 2016.",
+            "Compra tu cupón y comunícate con el establecimiento para hacer tu reserva.",
+            "Horario: Lunes, Martes, Miercoles de 12:00pm a 130:00pm / Jueves y viernes de 12:00pm a 11:30pm / Sábados de 1:00pm a 11:30pm y Domingos de 1:00pm a 10:00pm.",
+            "Presenta el cupón al llegar.",
+            "No es válido para 1 persona.",
+            "No es válido para personas menores de 12 años.",
+            "El menú esta sujetoa cambios.",
+            "El 10% no está incluido en el cupón.",
+            "El monto de la propina lo decide el usuario del cupón."
+
+    ]
+    
+},
+{
+    "userId": 15,
+    "categoria": "icon-cat-gastronomy.png",
+    "nomcategoria": "Gastronomía",
+    "oferta": "GASTRONOMIA - 15% de descuento en todos los pescados de la casa. ",
+    "nombrealiado": "La Castañuela",
+    "datos": {
+        "ciudad": "Las Mercedes, Caracas",
+        "direccion": "2da Av entre 4ta y 5ta transversal, CC Las Cupulas, Los Palos Grandes, Caracas",
+        "telefono": "0212-2851960",
+        "pagina": "www.chiru.com.ve"
+    },
+    "precioantes": "49.000",
+    "precioahora": "42.000",
+    "premium": "0",
+    "fotos":
+        [
+            "item-gastronomy-1.png",
+            "item-gastronomy-2.png",
+            "item-gastronomy-3.png",
+            "item-gastronomy-4.png"
+    ],
+    "detalles":
+        [
+            "Paga Bs.46.900 y consume Bs. 10.000 más 2 tintos de verano (de lunes a domingos) en Chirú.",
+            "Con la compra del cupón podrás disfrutar de 2 tintos de verano de lunes a domingos"
+    ],
+    "condiciones":
+        [
+            "Válido desde el 25 de julio hasta el 25 de agosto de 2016.",
+            "Compra tu cupón y comunícate con el establecimiento para hacer tu reserva.",
+            "Horario: Lunes, Martes, Miercoles de 12:00pm a 130:00pm / Jueves y viernes de 12:00pm a 11:30pm / Sábados de 1:00pm a 11:30pm y Domingos de 1:00pm a 10:00pm.",
+            "Presenta el cupón al llegar.",
+            "No es válido para 1 persona.",
+            "No es válido para personas menores de 12 años.",
+            "El menú esta sujetoa cambios.",
+            "El 10% no está incluido en el cupón.",
+            "El monto de la propina lo decide el usuario del cupón."
+
+    ]
+    
+},
+{
+    "userId": 16,
+    "categoria": "icon-cat-gastronomy.png",
+    "nomcategoria": "Gastronomía",
+    "oferta": "GASTRONOMIA - 16% de descuento en todos los pescados de la casa. ",
+    "nombrealiado": "La Castañuela",
+    "datos": {
+        "ciudad": "Las Mercedes, Caracas",
+        "direccion": "2da Av entre 4ta y 5ta transversal, CC Las Cupulas, Los Palos Grandes, Caracas",
+        "telefono": "0212-2851960",
+        "pagina": "www.chiru.com.ve"
+    },
+    "precioantes": "49.000",
+    "precioahora": "42.000",
+    "premium": "0",
+    "fotos":
+        [
+            "item-gastronomy-1.png",
+            "item-gastronomy-2.png",
+            "item-gastronomy-3.png",
+            "item-gastronomy-4.png"
+    ],
+    "detalles":
+        [
+            "Paga Bs.46.900 y consume Bs. 10.000 más 2 tintos de verano (de lunes a domingos) en Chirú.",
+            "Con la compra del cupón podrás disfrutar de 2 tintos de verano de lunes a domingos"
+    ],
+    "condiciones":
+        [
+            "Válido desde el 25 de julio hasta el 25 de agosto de 2016.",
+            "Compra tu cupón y comunícate con el establecimiento para hacer tu reserva.",
+            "Horario: Lunes, Martes, Miercoles de 12:00pm a 130:00pm / Jueves y viernes de 12:00pm a 11:30pm / Sábados de 1:00pm a 11:30pm y Domingos de 1:00pm a 10:00pm.",
+            "Presenta el cupón al llegar.",
+            "No es válido para 1 persona.",
+            "No es válido para personas menores de 12 años.",
+            "El menú esta sujetoa cambios.",
+            "El 10% no está incluido en el cupón.",
+            "El monto de la propina lo decide el usuario del cupón."
+
+    ]
+    
+},
+{
+    "userId": 17,
+    "categoria": "icon-cat-gastronomy.png",
+    "nomcategoria": "Gastronomía",
+    "oferta": "GASTRONOMIA - 17% de descuento en todos los pescados de la casa. ",
+    "nombrealiado": "La Castañuela",
+    "datos": {
+        "ciudad": "Las Mercedes, Caracas",
+        "direccion": "2da Av entre 4ta y 5ta transversal, CC Las Cupulas, Los Palos Grandes, Caracas",
+        "telefono": "0212-2851960",
+        "pagina": "www.chiru.com.ve"
+    },
+    "precioantes": "49.000",
+    "precioahora": "42.000",
+    "premium": "0",
+    "fotos":
+        [
+            "item-gastronomy-1.png",
+            "item-gastronomy-2.png",
+            "item-gastronomy-3.png",
+            "item-gastronomy-4.png"
+    ],
+    "detalles":
+        [
+            "Paga Bs.46.900 y consume Bs. 10.000 más 2 tintos de verano (de lunes a domingos) en Chirú.",
+            "Con la compra del cupón podrás disfrutar de 2 tintos de verano de lunes a domingos"
+    ],
+    "condiciones":
+        [
+            "Válido desde el 25 de julio hasta el 25 de agosto de 2016.",
+            "Compra tu cupón y comunícate con el establecimiento para hacer tu reserva.",
+            "Horario: Lunes, Martes, Miercoles de 12:00pm a 130:00pm / Jueves y viernes de 12:00pm a 11:30pm / Sábados de 1:00pm a 11:30pm y Domingos de 1:00pm a 10:00pm.",
+            "Presenta el cupón al llegar.",
+            "No es válido para 1 persona.",
+            "No es válido para personas menores de 12 años.",
+            "El menú esta sujetoa cambios.",
+            "El 10% no está incluido en el cupón.",
+            "El monto de la propina lo decide el usuario del cupón."
+
+    ]
+    
+},
+{
+    "userId": 18,
+    "categoria": "icon-cat-gastronomy.png",
+    "nomcategoria": "Gastronomía",
+    "oferta": "GASTRONOMIA - 18% de descuento en todos los pescados de la casa. ",
+    "nombrealiado": "La Castañuela",
+    "datos": {
+        "ciudad": "Las Mercedes, Caracas",
+        "direccion": "2da Av entre 4ta y 5ta transversal, CC Las Cupulas, Los Palos Grandes, Caracas",
+        "telefono": "0212-2851960",
+        "pagina": "www.chiru.com.ve"
+    },
+    "precioantes": "49.000",
+    "precioahora": "42.000",
+    "premium": "0",
+    "fotos":
+        [
+            "item-gastronomy-1.png",
+            "item-gastronomy-2.png",
+            "item-gastronomy-3.png",
+            "item-gastronomy-4.png"
+    ],
+    "detalles":
+        [
+            "Paga Bs.46.900 y consume Bs. 10.000 más 2 tintos de verano (de lunes a domingos) en Chirú.",
+            "Con la compra del cupón podrás disfrutar de 2 tintos de verano de lunes a domingos"
+    ],
+    "condiciones":
+        [
+            "Válido desde el 25 de julio hasta el 25 de agosto de 2016.",
+            "Compra tu cupón y comunícate con el establecimiento para hacer tu reserva.",
+            "Horario: Lunes, Martes, Miercoles de 12:00pm a 130:00pm / Jueves y viernes de 12:00pm a 11:30pm / Sábados de 1:00pm a 11:30pm y Domingos de 1:00pm a 10:00pm.",
+            "Presenta el cupón al llegar.",
+            "No es válido para 1 persona.",
+            "No es válido para personas menores de 12 años.",
+            "El menú esta sujetoa cambios.",
+            "El 10% no está incluido en el cupón.",
+            "El monto de la propina lo decide el usuario del cupón."
+
+    ]
+    
+},
+{
+    "userId": 19,
+    "categoria": "icon-cat-gastronomy.png",
+    "nomcategoria": "Gastronomía",
+    "oferta": "GASTRONOMIA - 19% de descuento en todos los pescados de la casa. ",
+    "nombrealiado": "La Castañuela",
+    "datos": {
+        "ciudad": "Las Mercedes, Caracas",
+        "direccion": "2da Av entre 4ta y 5ta transversal, CC Las Cupulas, Los Palos Grandes, Caracas",
+        "telefono": "0212-2851960",
+        "pagina": "www.chiru.com.ve"
+    },
+    "precioantes": "49.000",
+    "precioahora": "42.000",
+    "premium": "0",
+    "fotos":
+        [
+            "item-gastronomy-1.png",
+            "item-gastronomy-2.png",
+            "item-gastronomy-3.png",
+            "item-gastronomy-4.png"
+    ],
+    "detalles":
+        [
+            "Paga Bs.46.900 y consume Bs. 10.000 más 2 tintos de verano (de lunes a domingos) en Chirú.",
+            "Con la compra del cupón podrás disfrutar de 2 tintos de verano de lunes a domingos"
+    ],
+    "condiciones":
+        [
+            "Válido desde el 25 de julio hasta el 25 de agosto de 2016.",
+            "Compra tu cupón y comunícate con el establecimiento para hacer tu reserva.",
+            "Horario: Lunes, Martes, Miercoles de 12:00pm a 130:00pm / Jueves y viernes de 12:00pm a 11:30pm / Sábados de 1:00pm a 11:30pm y Domingos de 1:00pm a 10:00pm.",
+            "Presenta el cupón al llegar.",
+            "No es válido para 1 persona.",
+            "No es válido para personas menores de 12 años.",
+            "El menú esta sujetoa cambios.",
+            "El 10% no está incluido en el cupón.",
+            "El monto de la propina lo decide el usuario del cupón."
+
+    ]
+    
+},
+{
+    "userId": 20,
+    "categoria": "icon-cat-gastronomy.png",
+    "nomcategoria": "Gastronomía",
+    "oferta": "GASTRONOMIA - 20% de descuento en todos los pescados de la casa. ",
+    "nombrealiado": "La Castañuela",
+    "datos": {
+        "ciudad": "Las Mercedes, Caracas",
+        "direccion": "2da Av entre 4ta y 5ta transversal, CC Las Cupulas, Los Palos Grandes, Caracas",
+        "telefono": "0212-2851960",
+        "pagina": "www.chiru.com.ve"
+    },
+    "precioantes": "49.000",
+    "precioahora": "42.000",
+    "premium": "0",
+    "fotos":
+        [
+            "item-gastronomy-1.png",
+            "item-gastronomy-2.png",
+            "item-gastronomy-3.png",
+            "item-gastronomy-4.png"
+    ],
+    "detalles":
+        [
+            "Paga Bs.46.900 y consume Bs. 10.000 más 2 tintos de verano (de lunes a domingos) en Chirú.",
+            "Con la compra del cupón podrás disfrutar de 2 tintos de verano de lunes a domingos"
+    ],
+    "condiciones":
+        [
+            "Válido desde el 25 de julio hasta el 25 de agosto de 2016.",
+            "Compra tu cupón y comunícate con el establecimiento para hacer tu reserva.",
+            "Horario: Lunes, Martes, Miercoles de 12:00pm a 130:00pm / Jueves y viernes de 12:00pm a 11:30pm / Sábados de 1:00pm a 11:30pm y Domingos de 1:00pm a 10:00pm.",
+            "Presenta el cupón al llegar.",
+            "No es válido para 1 persona.",
+            "No es válido para personas menores de 12 años.",
+            "El menú esta sujetoa cambios.",
+            "El 10% no está incluido en el cupón.",
+            "El monto de la propina lo decide el usuario del cupón."
+
+    ]
+    
+},
+{
+    "userId": 21,
+    "categoria": "icon-cat-gastronomy.png",
+    "nomcategoria": "Gastronomía",
+    "oferta": "GASTRONOMIA - 21% de descuento en todos los pescados de la casa. ",
+    "nombrealiado": "La Castañuela",
+    "datos": {
+        "ciudad": "Las Mercedes, Caracas",
+        "direccion": "2da Av entre 4ta y 5ta transversal, CC Las Cupulas, Los Palos Grandes, Caracas",
+        "telefono": "0212-2851960",
+        "pagina": "www.chiru.com.ve"
+    },
+    "precioantes": "49.000",
+    "precioahora": "42.000",
+    "premium": "0",
+    "fotos":
+        [
+            "item-gastronomy-1.png",
+            "item-gastronomy-2.png",
+            "item-gastronomy-3.png",
+            "item-gastronomy-4.png"
+    ],
+    "detalles":
+        [
+            "Paga Bs.46.900 y consume Bs. 10.000 más 2 tintos de verano (de lunes a domingos) en Chirú.",
+            "Con la compra del cupón podrás disfrutar de 2 tintos de verano de lunes a domingos"
+    ],
+    "condiciones":
+        [
+            "Válido desde el 25 de julio hasta el 25 de agosto de 2016.",
+            "Compra tu cupón y comunícate con el establecimiento para hacer tu reserva.",
+            "Horario: Lunes, Martes, Miercoles de 12:00pm a 130:00pm / Jueves y viernes de 12:00pm a 11:30pm / Sábados de 1:00pm a 11:30pm y Domingos de 1:00pm a 10:00pm.",
+            "Presenta el cupón al llegar.",
+            "No es válido para 1 persona.",
+            "No es válido para personas menores de 12 años.",
+            "El menú esta sujetoa cambios.",
+            "El 10% no está incluido en el cupón.",
+            "El monto de la propina lo decide el usuario del cupón."
+
+    ]
+    
+},
+{
+    "userId": 22,
+    "categoria": "icon-cat-gastronomy.png",
+    "nomcategoria": "Gastronomía",
+    "oferta": "GASTRONOMIA - 22% de descuento en todos los pescados de la casa. ",
+    "nombrealiado": "La Castañuela",
+    "datos": {
+        "ciudad": "Las Mercedes, Caracas",
+        "direccion": "2da Av entre 4ta y 5ta transversal, CC Las Cupulas, Los Palos Grandes, Caracas",
+        "telefono": "0212-2851960",
+        "pagina": "www.chiru.com.ve"
+    },
+    "precioantes": "49.000",
+    "precioahora": "42.000",
+    "premium": "0",
+    "fotos":
+        [
+            "item-gastronomy-1.png",
+            "item-gastronomy-2.png",
+            "item-gastronomy-3.png",
+            "item-gastronomy-4.png"
+    ],
+    "detalles":
+        [
+            "Paga Bs.46.900 y consume Bs. 10.000 más 2 tintos de verano (de lunes a domingos) en Chirú.",
+            "Con la compra del cupón podrás disfrutar de 2 tintos de verano de lunes a domingos"
+    ],
+    "condiciones":
+        [
+            "Válido desde el 25 de julio hasta el 25 de agosto de 2016.",
+            "Compra tu cupón y comunícate con el establecimiento para hacer tu reserva.",
+            "Horario: Lunes, Martes, Miercoles de 12:00pm a 130:00pm / Jueves y viernes de 12:00pm a 11:30pm / Sábados de 1:00pm a 11:30pm y Domingos de 1:00pm a 10:00pm.",
+            "Presenta el cupón al llegar.",
+            "No es válido para 1 persona.",
+            "No es válido para personas menores de 12 años.",
+            "El menú esta sujetoa cambios.",
+            "El 10% no está incluido en el cupón.",
+            "El monto de la propina lo decide el usuario del cupón."
+
+    ]
+    
+},
+{
+    "userId": 23,
+    "categoria": "icon-cat-gastronomy.png",
+    "nomcategoria": "Gastronomía",
+    "oferta": "GASTRONOMIA - 23% de descuento en todos los pescados de la casa. ",
+    "nombrealiado": "La Castañuela",
+    "datos": {
+        "ciudad": "Las Mercedes, Caracas",
+        "direccion": "2da Av entre 4ta y 5ta transversal, CC Las Cupulas, Los Palos Grandes, Caracas",
+        "telefono": "0212-2851960",
+        "pagina": "www.chiru.com.ve"
+    },
+    "precioantes": "49.000",
+    "precioahora": "42.000",
+    "premium": "0",
+    "fotos":
+        [
+            "item-gastronomy-1.png",
+            "item-gastronomy-2.png",
+            "item-gastronomy-3.png",
+            "item-gastronomy-4.png"
+    ],
+    "detalles":
+        [
+            "Paga Bs.46.900 y consume Bs. 10.000 más 2 tintos de verano (de lunes a domingos) en Chirú.",
+            "Con la compra del cupón podrás disfrutar de 2 tintos de verano de lunes a domingos"
+    ],
+    "condiciones":
+        [
+            "Válido desde el 25 de julio hasta el 25 de agosto de 2016.",
+            "Compra tu cupón y comunícate con el establecimiento para hacer tu reserva.",
+            "Horario: Lunes, Martes, Miercoles de 12:00pm a 130:00pm / Jueves y viernes de 12:00pm a 11:30pm / Sábados de 1:00pm a 11:30pm y Domingos de 1:00pm a 10:00pm.",
+            "Presenta el cupón al llegar.",
+            "No es válido para 1 persona.",
+            "No es válido para personas menores de 12 años.",
+            "El menú esta sujetoa cambios.",
+            "El 10% no está incluido en el cupón.",
+            "El monto de la propina lo decide el usuario del cupón."
+
+    ]
+    
+},
+{
+    "userId": 24,
+    "categoria": "icon-cat-gastronomy.png",
+    "nomcategoria": "Gastronomía",
+    "oferta": "GASTRONOMIA - 24% de descuento en todos los pescados de la casa. ",
+    "nombrealiado": "La Castañuela",
+    "datos": {
+        "ciudad": "Las Mercedes, Caracas",
+        "direccion": "2da Av entre 4ta y 5ta transversal, CC Las Cupulas, Los Palos Grandes, Caracas",
+        "telefono": "0212-2851960",
+        "pagina": "www.chiru.com.ve"
+    },
+    "precioantes": "49.000",
+    "precioahora": "42.000",
+    "premium": "0",
+    "fotos":
+        [
+            "item-gastronomy-1.png",
+            "item-gastronomy-2.png",
+            "item-gastronomy-3.png",
+            "item-gastronomy-4.png"
+    ],
+    "detalles":
+        [
+            "Paga Bs.46.900 y consume Bs. 10.000 más 2 tintos de verano (de lunes a domingos) en Chirú.",
+            "Con la compra del cupón podrás disfrutar de 2 tintos de verano de lunes a domingos"
+    ],
+    "condiciones":
+        [
+            "Válido desde el 25 de julio hasta el 25 de agosto de 2016.",
+            "Compra tu cupón y comunícate con el establecimiento para hacer tu reserva.",
+            "Horario: Lunes, Martes, Miercoles de 12:00pm a 130:00pm / Jueves y viernes de 12:00pm a 11:30pm / Sábados de 1:00pm a 11:30pm y Domingos de 1:00pm a 10:00pm.",
+            "Presenta el cupón al llegar.",
+            "No es válido para 1 persona.",
+            "No es válido para personas menores de 12 años.",
+            "El menú esta sujetoa cambios.",
+            "El 10% no está incluido en el cupón.",
+            "El monto de la propina lo decide el usuario del cupón."
+
+    ]
+    
+},
+{
+    "userId": 25,
+    "categoria": "icon-cat-gastronomy.png",
+    "nomcategoria": "Gastronomía",
+    "oferta": "GASTRONOMIA - 25% de descuento en todos los pescados de la casa. ",
+    "nombrealiado": "La Castañuela",
+    "datos": {
+        "ciudad": "Las Mercedes, Caracas",
+        "direccion": "2da Av entre 4ta y 5ta transversal, CC Las Cupulas, Los Palos Grandes, Caracas",
+        "telefono": "0212-2851960",
+        "pagina": "www.chiru.com.ve"
+    },
+    "precioantes": "49.000",
+    "precioahora": "42.000",
+    "premium": "0",
+    "fotos":
+        [
+            "item-gastronomy-1.png",
+            "item-gastronomy-2.png",
+            "item-gastronomy-3.png",
+            "item-gastronomy-4.png"
+    ],
+    "detalles":
+        [
+            "Paga Bs.46.900 y consume Bs. 10.000 más 2 tintos de verano (de lunes a domingos) en Chirú.",
+            "Con la compra del cupón podrás disfrutar de 2 tintos de verano de lunes a domingos"
+    ],
+    "condiciones":
+        [
+            "Válido desde el 25 de julio hasta el 25 de agosto de 2016.",
+            "Compra tu cupón y comunícate con el establecimiento para hacer tu reserva.",
+            "Horario: Lunes, Martes, Miercoles de 12:00pm a 130:00pm / Jueves y viernes de 12:00pm a 11:30pm / Sábados de 1:00pm a 11:30pm y Domingos de 1:00pm a 10:00pm.",
+            "Presenta el cupón al llegar.",
+            "No es válido para 1 persona.",
+            "No es válido para personas menores de 12 años.",
+            "El menú esta sujetoa cambios.",
+            "El 10% no está incluido en el cupón.",
+            "El monto de la propina lo decide el usuario del cupón."
+
+    ]
+    
+},
+{
+    "userId": 26,
+    "categoria": "icon-cat-gastronomy.png",
+    "nomcategoria": "Gastronomía",
+    "oferta": "GASTRONOMIA - 26% de descuento en todos los pescados de la casa. ",
+    "nombrealiado": "La Castañuela",
+    "datos": {
+        "ciudad": "Las Mercedes, Caracas",
+        "direccion": "2da Av entre 4ta y 5ta transversal, CC Las Cupulas, Los Palos Grandes, Caracas",
+        "telefono": "0212-2851960",
+        "pagina": "www.chiru.com.ve"
+    },
+    "precioantes": "49.000",
+    "precioahora": "42.000",
+    "premium": "0",
+    "fotos":
+        [
+            "item-gastronomy-1.png",
+            "item-gastronomy-2.png",
+            "item-gastronomy-3.png",
+            "item-gastronomy-4.png"
+    ],
+    "detalles":
+        [
+            "Paga Bs.46.900 y consume Bs. 10.000 más 2 tintos de verano (de lunes a domingos) en Chirú.",
+            "Con la compra del cupón podrás disfrutar de 2 tintos de verano de lunes a domingos"
+    ],
+    "condiciones":
+        [
+            "Válido desde el 25 de julio hasta el 25 de agosto de 2016.",
+            "Compra tu cupón y comunícate con el establecimiento para hacer tu reserva.",
+            "Horario: Lunes, Martes, Miercoles de 12:00pm a 130:00pm / Jueves y viernes de 12:00pm a 11:30pm / Sábados de 1:00pm a 11:30pm y Domingos de 1:00pm a 10:00pm.",
+            "Presenta el cupón al llegar.",
+            "No es válido para 1 persona.",
+            "No es válido para personas menores de 12 años.",
+            "El menú esta sujetoa cambios.",
+            "El 10% no está incluido en el cupón.",
+            "El monto de la propina lo decide el usuario del cupón."
+
+    ]
+    
+},
+{
+    "userId": 27,
+    "categoria": "icon-cat-gastronomy.png",
+    "nomcategoria": "Gastronomía",
+    "oferta": "GASTRONOMIA - 27% de descuento en todos los pescados de la casa. ",
+    "nombrealiado": "La Castañuela",
+    "datos": {
+        "ciudad": "Las Mercedes, Caracas",
+        "direccion": "2da Av entre 4ta y 5ta transversal, CC Las Cupulas, Los Palos Grandes, Caracas",
+        "telefono": "0212-2851960",
+        "pagina": "www.chiru.com.ve"
+    },
+    "precioantes": "49.000",
+    "precioahora": "42.000",
+    "premium": "0",
+    "fotos":
+        [
+            "item-gastronomy-1.png",
+            "item-gastronomy-2.png",
+            "item-gastronomy-3.png",
+            "item-gastronomy-4.png"
+    ],
+    "detalles":
+        [
+            "Paga Bs.46.900 y consume Bs. 10.000 más 2 tintos de verano (de lunes a domingos) en Chirú.",
+            "Con la compra del cupón podrás disfrutar de 2 tintos de verano de lunes a domingos"
+    ],
+    "condiciones":
+        [
+            "Válido desde el 25 de julio hasta el 25 de agosto de 2016.",
+            "Compra tu cupón y comunícate con el establecimiento para hacer tu reserva.",
+            "Horario: Lunes, Martes, Miercoles de 12:00pm a 130:00pm / Jueves y viernes de 12:00pm a 11:30pm / Sábados de 1:00pm a 11:30pm y Domingos de 1:00pm a 10:00pm.",
+            "Presenta el cupón al llegar.",
+            "No es válido para 1 persona.",
+            "No es válido para personas menores de 12 años.",
+            "El menú esta sujetoa cambios.",
+            "El 10% no está incluido en el cupón.",
+            "El monto de la propina lo decide el usuario del cupón."
+
+    ]
+    
+},
+{
+    "userId": 28,
+    "categoria": "icon-cat-gastronomy.png",
+    "nomcategoria": "Gastronomía",
+    "oferta": "GASTRONOMIA - 28% de descuento en todos los pescados de la casa. ",
+    "nombrealiado": "La Castañuela",
+    "datos": {
+        "ciudad": "Las Mercedes, Caracas",
+        "direccion": "2da Av entre 4ta y 5ta transversal, CC Las Cupulas, Los Palos Grandes, Caracas",
+        "telefono": "0212-2851960",
+        "pagina": "www.chiru.com.ve"
+    },
+    "precioantes": "49.000",
+    "precioahora": "42.000",
+    "premium": "0",
+    "fotos":
+        [
+            "item-gastronomy-1.png",
+            "item-gastronomy-2.png",
+            "item-gastronomy-3.png",
+            "item-gastronomy-4.png"
+    ],
+    "detalles":
+        [
+            "Paga Bs.46.900 y consume Bs. 10.000 más 2 tintos de verano (de lunes a domingos) en Chirú.",
+            "Con la compra del cupón podrás disfrutar de 2 tintos de verano de lunes a domingos"
+    ],
+    "condiciones":
+        [
+            "Válido desde el 25 de julio hasta el 25 de agosto de 2016.",
+            "Compra tu cupón y comunícate con el establecimiento para hacer tu reserva.",
+            "Horario: Lunes, Martes, Miercoles de 12:00pm a 130:00pm / Jueves y viernes de 12:00pm a 11:30pm / Sábados de 1:00pm a 11:30pm y Domingos de 1:00pm a 10:00pm.",
+            "Presenta el cupón al llegar.",
+            "No es válido para 1 persona.",
+            "No es válido para personas menores de 12 años.",
+            "El menú esta sujetoa cambios.",
+            "El 10% no está incluido en el cupón.",
+            "El monto de la propina lo decide el usuario del cupón."
+
+    ]
+    
+},
+{
+    "userId": 29,
+    "categoria": "icon-cat-gastronomy.png",
+    "nomcategoria": "Gastronomía",
+    "oferta": "GASTRONOMIA - 29% de descuento en todos los pescados de la casa. ",
+    "nombrealiado": "La Castañuela",
+    "datos": {
+        "ciudad": "Las Mercedes, Caracas",
+        "direccion": "2da Av entre 4ta y 5ta transversal, CC Las Cupulas, Los Palos Grandes, Caracas",
+        "telefono": "0212-2851960",
+        "pagina": "www.chiru.com.ve"
+    },
+    "precioantes": "49.000",
+    "precioahora": "42.000",
+    "premium": "0",
+    "fotos":
+        [
+            "item-gastronomy-1.png",
+            "item-gastronomy-2.png",
+            "item-gastronomy-3.png",
+            "item-gastronomy-4.png"
+    ],
+    "detalles":
+        [
+            "Paga Bs.46.900 y consume Bs. 10.000 más 2 tintos de verano (de lunes a domingos) en Chirú.",
+            "Con la compra del cupón podrás disfrutar de 2 tintos de verano de lunes a domingos"
+    ],
+    "condiciones":
+        [
+            "Válido desde el 25 de julio hasta el 25 de agosto de 2016.",
+            "Compra tu cupón y comunícate con el establecimiento para hacer tu reserva.",
+            "Horario: Lunes, Martes, Miercoles de 12:00pm a 130:00pm / Jueves y viernes de 12:00pm a 11:30pm / Sábados de 1:00pm a 11:30pm y Domingos de 1:00pm a 10:00pm.",
+            "Presenta el cupón al llegar.",
+            "No es válido para 1 persona.",
+            "No es válido para personas menores de 12 años.",
+            "El menú esta sujetoa cambios.",
+            "El 10% no está incluido en el cupón.",
+            "El monto de la propina lo decide el usuario del cupón."
+
+    ]
+    
+},
+{
+    "userId": 30,
+    "categoria": "icon-cat-gastronomy.png",
+    "nomcategoria": "Gastronomía",
+    "oferta": "GASTRONOMIA - 30% de descuento en todos los pescados de la casa. ",
+    "nombrealiado": "La Castañuela",
+    "datos": {
+        "ciudad": "Las Mercedes, Caracas",
+        "direccion": "2da Av entre 4ta y 5ta transversal, CC Las Cupulas, Los Palos Grandes, Caracas",
+        "telefono": "0212-2851960",
+        "pagina": "www.chiru.com.ve"
+    },
+    "precioantes": "49.000",
+    "precioahora": "42.000",
+    "premium": "0",
+    "fotos":
+        [
+            "item-gastronomy-1.png",
+            "item-gastronomy-2.png",
+            "item-gastronomy-3.png",
+            "item-gastronomy-4.png"
+    ],
+    "detalles":
+        [
+            "Paga Bs.46.900 y consume Bs. 10.000 más 2 tintos de verano (de lunes a domingos) en Chirú.",
+            "Con la compra del cupón podrás disfrutar de 2 tintos de verano de lunes a domingos"
+    ],
+    "condiciones":
+        [
+            "Válido desde el 25 de julio hasta el 25 de agosto de 2016.",
+            "Compra tu cupón y comunícate con el establecimiento para hacer tu reserva.",
+            "Horario: Lunes, Martes, Miercoles de 12:00pm a 130:00pm / Jueves y viernes de 12:00pm a 11:30pm / Sábados de 1:00pm a 11:30pm y Domingos de 1:00pm a 10:00pm.",
+            "Presenta el cupón al llegar.",
+            "No es válido para 1 persona.",
+            "No es válido para personas menores de 12 años.",
+            "El menú esta sujetoa cambios.",
+            "El 10% no está incluido en el cupón.",
+            "El monto de la propina lo decide el usuario del cupón."
+
+    ]
+    
+},
+{
+    "userId": 31,
+    "categoria": "icon-cat-gastronomy.png",
+    "nomcategoria": "Gastronomía",
+    "oferta": "GASTRONOMIA - 31% de descuento en todos los pescados de la casa. ",
+    "nombrealiado": "La Castañuela",
+    "datos": {
+        "ciudad": "Las Mercedes, Caracas",
+        "direccion": "2da Av entre 4ta y 5ta transversal, CC Las Cupulas, Los Palos Grandes, Caracas",
+        "telefono": "0212-2851960",
+        "pagina": "www.chiru.com.ve"
+    },
+    "precioantes": "49.000",
+    "precioahora": "42.000",
+    "premium": "0",
+    "fotos":
+        [
+            "item-gastronomy-1.png",
+            "item-gastronomy-2.png",
+            "item-gastronomy-3.png",
+            "item-gastronomy-4.png"
+    ],
+    "detalles":
+        [
+            "Paga Bs.46.900 y consume Bs. 10.000 más 2 tintos de verano (de lunes a domingos) en Chirú.",
+            "Con la compra del cupón podrás disfrutar de 2 tintos de verano de lunes a domingos"
+    ],
+    "condiciones":
+        [
+            "Válido desde el 25 de julio hasta el 25 de agosto de 2016.",
+            "Compra tu cupón y comunícate con el establecimiento para hacer tu reserva.",
+            "Horario: Lunes, Martes, Miercoles de 12:00pm a 130:00pm / Jueves y viernes de 12:00pm a 11:30pm / Sábados de 1:00pm a 11:30pm y Domingos de 1:00pm a 10:00pm.",
+            "Presenta el cupón al llegar.",
+            "No es válido para 1 persona.",
+            "No es válido para personas menores de 12 años.",
+            "El menú esta sujetoa cambios.",
+            "El 10% no está incluido en el cupón.",
+            "El monto de la propina lo decide el usuario del cupón."
+
+    ]
+    
+},
+{
+    "userId": 32,
+    "categoria": "icon-cat-gastronomy.png",
+    "nomcategoria": "Gastronomía",
+    "oferta": "GASTRONOMIA - 32% de descuento en todos los pescados de la casa. ",
+    "nombrealiado": "La Castañuela",
+    "datos": {
+        "ciudad": "Las Mercedes, Caracas",
+        "direccion": "2da Av entre 4ta y 5ta transversal, CC Las Cupulas, Los Palos Grandes, Caracas",
+        "telefono": "0212-2851960",
+        "pagina": "www.chiru.com.ve"
+    },
+    "precioantes": "49.000",
+    "precioahora": "42.000",
+    "premium": "0",
+    "fotos":
+        [
+            "item-gastronomy-1.png",
+            "item-gastronomy-2.png",
+            "item-gastronomy-3.png",
+            "item-gastronomy-4.png"
+    ],
+    "detalles":
+        [
+            "Paga Bs.46.900 y consume Bs. 10.000 más 2 tintos de verano (de lunes a domingos) en Chirú.",
+            "Con la compra del cupón podrás disfrutar de 2 tintos de verano de lunes a domingos"
+    ],
+    "condiciones":
+        [
+            "Válido desde el 25 de julio hasta el 25 de agosto de 2016.",
+            "Compra tu cupón y comunícate con el establecimiento para hacer tu reserva.",
+            "Horario: Lunes, Martes, Miercoles de 12:00pm a 130:00pm / Jueves y viernes de 12:00pm a 11:30pm / Sábados de 1:00pm a 11:30pm y Domingos de 1:00pm a 10:00pm.",
+            "Presenta el cupón al llegar.",
+            "No es válido para 1 persona.",
+            "No es válido para personas menores de 12 años.",
+            "El menú esta sujetoa cambios.",
+            "El 10% no está incluido en el cupón.",
+            "El monto de la propina lo decide el usuario del cupón."
+
+    ]
+    
+},
+{
+    "userId": 33,
+    "categoria": "icon-cat-gastronomy.png",
+    "nomcategoria": "Gastronomía",
+    "oferta": "GASTRONOMIA - 33% de descuento en todos los pescados de la casa. ",
+    "nombrealiado": "La Castañuela",
+    "datos": {
+        "ciudad": "Las Mercedes, Caracas",
+        "direccion": "2da Av entre 4ta y 5ta transversal, CC Las Cupulas, Los Palos Grandes, Caracas",
+        "telefono": "0212-2851960",
+        "pagina": "www.chiru.com.ve"
+    },
+    "precioantes": "49.000",
+    "precioahora": "42.000",
+    "premium": "0",
+    "fotos":
+        [
+            "item-gastronomy-1.png",
+            "item-gastronomy-2.png",
+            "item-gastronomy-3.png",
+            "item-gastronomy-4.png"
+    ],
+    "detalles":
+        [
+            "Paga Bs.46.900 y consume Bs. 10.000 más 2 tintos de verano (de lunes a domingos) en Chirú.",
+            "Con la compra del cupón podrás disfrutar de 2 tintos de verano de lunes a domingos"
+    ],
+    "condiciones":
+        [
+            "Válido desde el 25 de julio hasta el 25 de agosto de 2016.",
+            "Compra tu cupón y comunícate con el establecimiento para hacer tu reserva.",
+            "Horario: Lunes, Martes, Miercoles de 12:00pm a 130:00pm / Jueves y viernes de 12:00pm a 11:30pm / Sábados de 1:00pm a 11:30pm y Domingos de 1:00pm a 10:00pm.",
+            "Presenta el cupón al llegar.",
+            "No es válido para 1 persona.",
+            "No es válido para personas menores de 12 años.",
+            "El menú esta sujetoa cambios.",
+            "El 10% no está incluido en el cupón.",
+            "El monto de la propina lo decide el usuario del cupón."
+
+    ]
+    
+},
+{
+    "userId": 5,
+    "categoria": "icon-cat-turism.png",
+    "nomcategoria": "Turismo",
+    "oferta": "TURISMO2 - Promoción 2x1 en todas las pastas de la casa más un acompañante por persona",
+    "nombrealiado": "Avila Burger",
+    "datos": {
+        "ciudad": "Los Palos Grandes, Caracas",
+        "direccion": "2da Av entre 4ta y 5ta transversal, CC Las Cupulas, Los Palos Grandes, Caracas",
+        "telefono": "0212-2851960",
+        "pagina": "www.chiru.com.ve"
+    },
+    "precioantes": "49.000",
+    "precioahora": "42.000",
+    "premium": "0",
+    "fotos":
+        [
+            "item-gastronomy-1.png",
+            "item-gastronomy-2.png",
+            "item-gastronomy-3.png",
+            "item-gastronomy-4.png"
+    ],
+    "detalles":
+        [
+            "Paga Bs.46.900 y consume Bs. 10.000 más 2 tintos de verano (de lunes a domingos) en Chirú.",
+            "Con la compra del cupón podrás disfrutar de 2 tintos de verano de lunes a domingos"
+    ],
+    "condiciones":
+        [
+            "Válido desde el 25 de julio hasta el 25 de agosto de 2016.",
+            "Compra tu cupón y comunícate con el establecimiento para hacer tu reserva.",
+            "Horario: Lunes, Martes, Miercoles de 12:00pm a 130:00pm / Jueves y viernes de 12:00pm a 11:30pm / Sábados de 1:00pm a 11:30pm y Domingos de 1:00pm a 10:00pm.",
+            "Presenta el cupón al llegar.",
+            "No es válido para 1 persona.",
+            "No es válido para personas menores de 12 años.",
+            "El menú esta sujetoa cambios.",
+            "El 10% no está incluido en el cupón.",
+            "El monto de la propina lo decide el usuario del cupón."
+
+    ]
+    
+}
+
+]
